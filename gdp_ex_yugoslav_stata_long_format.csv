@@ -1,0 +1,3175 @@
+territory_id,region_name,year,gdp_per_capita
+HR021,Bjelovarsko-bilogorska županija,2000,5965.21
+HR022,Virovitičko-podravska županija,2000,5775.73
+HR023,Požeško-slavonska županija,2000,5836.23
+HR024,Brodsko-posavska županija,2000,5125.56
+HR025,Osječko-baranjska županija,2000,6356.21
+HR026,Vukovarsko-srijemska županija,2000,4891.44
+HR027,Karlovačka županija,2000,6218.83
+HR028,Sisačko-moslavačka županija,2000,7263.82
+HR031,Primorsko-goranska zupanija,2000,10969.4
+HR032,Licko-senjska zupanija,2000,6467.05
+HR033,Zadarska zupanija,2000,6311.52
+HR034,Sibensko-kninska zupanija,2000,5955.75
+HR035,Splitsko-dalmatinska zupanija,2000,6870.06
+HR036,Istarska zupanija,2000,11116.47
+HR037,Dubrovacko-neretvanska zupanija,2000,7601.35
+HR050,Grad Zagreb,2000,13218.04
+HR061,Međimurska županija,2000,6406.22
+HR062,Varaždinska županija,2000,7075.25
+HR063,Koprivničko-križevačka županija,2000,8483.01
+HR064,Krapinsko-zagorska županija,2000,5827.53
+HR065,Zagrebačka županija,2000,6247.27
+ME000,Crna Gora,2000,3994.14
+MK001,Vardarski,2000,2378.21
+MK002,Istocen,2000,2274.2
+MK003,Jugozapaden,2000,2560.44
+MK004,Jugoistocen,2000,2544.61
+MK005,Pelagoniski,2000,3522.45
+MK006,Poloski,2000,1569.62
+MK007,Severoistocen,2000,1978.69
+MK008,Skopski,2000,4408.91
+RS110,Београдска област,2000,3939.67
+RS121,Западнобачка област,2000,2637.56
+RS122,Јужнобанатска област,2000,2805.08
+RS123,Јужнобачка област,2000,4240.16
+RS124,Севернобанатска област,2000,2728.99
+RS125,Севернобачка област,2000,2719.51
+RS126,Средњобанатска област,2000,3135.0
+RS127,Сремска област,2000,2573.2
+RS211,Златиборска област,2000,2023.0
+RS212,Колубарска област,2000,2165.27
+RS213,Мачванска област,2000,1954.09
+RS214,Моравичка област,2000,2840.83
+RS215,Поморавска област,2000,2278.1
+RS216,Расинска област,2000,2707.51
+RS217,Рашка област,2000,1751.44
+RS218,Шумадијска област,2000,2000.89
+RS221,Борска област,2000,2523.02
+RS222,Браничевска област,2000,2554.89
+RS223,Зајечарска област,2000,2263.72
+RS224,Јабланичка област,2000,1942.63
+RS225,Нишавска област,2000,2687.01
+RS226,Пиротска област,2000,2022.64
+RS227,Подунавска област,2000,1758.68
+RS228,Пчињска област,2000,2549.87
+RS229,Топличка област,2000,1944.24
+SI031,Pomurska,2000,10319.14
+SI032,Podravska,2000,12072.92
+SI033,Koroska,2000,12423.01
+SI034,Savinjska,2000,13278.99
+SI035,Zasavska,2000,10485.9
+SI036,Posavska,2000,12452.91
+SI037,Jugovzhodna Slovenija,2000,14468.78
+SI038,Primorsko-notranjska,2000,11966.73
+SI041,Osrednjeslovenska,2000,20393.32
+SI042,Gorenjska,2000,12941.06
+SI043,Goriska,2000,14236.82
+SI044,Obalno-kraska,2000,15535.4
+HR021,Bjelovarsko-bilogorska županija,2000,5965.21
+HR022,Virovitičko-podravska županija,2000,5775.73
+HR023,Požeško-slavonska županija,2000,5836.23
+HR024,Brodsko-posavska županija,2000,5125.56
+HR025,Osječko-baranjska županija,2000,6356.21
+HR026,Vukovarsko-srijemska županija,2000,4891.44
+HR027,Karlovačka županija,2000,6218.83
+HR028,Sisačko-moslavačka županija,2000,7263.82
+HR031,Primorsko-goranska zupanija,2000,10969.4
+HR032,Licko-senjska zupanija,2000,6467.05
+HR033,Zadarska zupanija,2000,6311.52
+HR034,Sibensko-kninska zupanija,2000,5955.75
+HR035,Splitsko-dalmatinska zupanija,2000,6870.06
+HR036,Istarska zupanija,2000,11116.47
+HR037,Dubrovacko-neretvanska zupanija,2000,7601.35
+HR050,Grad Zagreb,2000,13218.04
+HR061,Međimurska županija,2000,6406.22
+HR062,Varaždinska županija,2000,7075.25
+HR063,Koprivničko-križevačka županija,2000,8483.01
+HR064,Krapinsko-zagorska županija,2000,5827.53
+HR065,Zagrebačka županija,2000,6247.27
+ME000,Crna Gora,2000,3994.14
+MK001,Vardarski,2000,2378.21
+MK002,Istocen,2000,2274.2
+MK003,Jugozapaden,2000,2560.44
+MK004,Jugoistocen,2000,2544.61
+MK005,Pelagoniski,2000,3522.45
+MK006,Poloski,2000,1569.62
+MK007,Severoistocen,2000,1978.69
+MK008,Skopski,2000,4408.91
+RS110,Београдска област,2000,3939.67
+RS121,Западнобачка област,2000,2637.56
+RS122,Јужнобанатска област,2000,2805.08
+RS123,Јужнобачка област,2000,4240.16
+RS124,Севернобанатска област,2000,2728.99
+RS125,Севернобачка област,2000,2719.51
+RS126,Средњобанатска област,2000,3135.0
+RS127,Сремска област,2000,2573.2
+RS211,Златиборска област,2000,2023.0
+RS212,Колубарска област,2000,2165.27
+RS213,Мачванска област,2000,1954.09
+RS214,Моравичка област,2000,2840.83
+RS215,Поморавска област,2000,2278.1
+RS216,Расинска област,2000,2707.51
+RS217,Рашка област,2000,1751.44
+RS218,Шумадијска област,2000,2000.89
+RS221,Борска област,2000,2523.02
+RS222,Браничевска област,2000,2554.89
+RS223,Зајечарска област,2000,2263.72
+RS224,Јабланичка област,2000,1942.63
+RS225,Нишавска област,2000,2687.01
+RS226,Пиротска област,2000,2022.64
+RS227,Подунавска област,2000,1758.68
+RS228,Пчињска област,2000,2549.87
+RS229,Топличка област,2000,1944.24
+SI031,Pomurska,2000,10319.14
+SI032,Podravska,2000,12072.92
+SI033,Koroska,2000,12423.01
+SI034,Savinjska,2000,13278.99
+SI035,Zasavska,2000,10485.9
+SI036,Posavska,2000,12452.91
+SI037,Jugovzhodna Slovenija,2000,14468.78
+SI038,Primorsko-notranjska,2000,11966.73
+SI041,Osrednjeslovenska,2000,20393.32
+SI042,Gorenjska,2000,12941.06
+SI043,Goriska,2000,14236.82
+SI044,Obalno-kraska,2000,15535.4
+KSV,Kosovo,2000,2239.098046103992
+BIH,Brčko,2000,3302.251762628287
+BIH,Federacija Bosna i Hercegovina,2000,2873.9041565190287
+BIH,Repuplika Srpska,2000,2616.3277077696166
+HR021,Bjelovarsko-bilogorska županija,2001,6258.52
+HR022,Virovitičko-podravska županija,2001,6290.74
+HR023,Požeško-slavonska županija,2001,6089.44
+HR024,Brodsko-posavska županija,2001,5439.16
+HR025,Osječko-baranjska županija,2001,6543.85
+HR026,Vukovarsko-srijemska županija,2001,5143.95
+HR027,Karlovačka županija,2001,7251.97
+HR028,Sisačko-moslavačka županija,2001,7067.54
+HR031,Primorsko-goranska zupanija,2001,10545.08
+HR032,Licko-senjska zupanija,2001,6595.46
+HR033,Zadarska zupanija,2001,6922.61
+HR034,Sibensko-kninska zupanija,2001,6017.14
+HR035,Splitsko-dalmatinska zupanija,2001,7122.64
+HR036,Istarska zupanija,2001,11923.23
+HR037,Dubrovacko-neretvanska zupanija,2001,7900.34
+HR050,Grad Zagreb,2001,14123.94
+HR061,Međimurska županija,2001,6734.14
+HR062,Varaždinska županija,2001,7543.43
+HR063,Koprivničko-križevačka županija,2001,8552.58
+HR064,Krapinsko-zagorska županija,2001,6423.94
+HR065,Zagrebačka županija,2001,5851.5
+ME000,Crna Gora,2001,4020.13
+MK001,Vardarski,2001,2590.28
+MK002,Istocen,2001,1975.3
+MK003,Jugozapaden,2001,2286.25
+MK004,Jugoistocen,2001,2457.55
+MK005,Pelagoniski,2001,3509.3
+MK006,Poloski,2001,1364.35
+MK007,Severoistocen,2001,1709.51
+MK008,Skopski,2001,4464.7
+RS110,Београдска област,2001,4389.93
+RS121,Западнобачка област,2001,2862.21
+RS122,Јужнобанатска област,2001,3074.97
+RS123,Јужнобачка област,2001,4657.23
+RS124,Севернобанатска област,2001,2996.11
+RS125,Севернобачка област,2001,3004.78
+RS126,Средњобанатска област,2001,3425.66
+RS127,Сремска област,2001,2796.7
+RS211,Златиборска област,2001,2110.71
+RS212,Колубарска област,2001,2212.26
+RS213,Мачванска област,2001,2092.31
+RS214,Моравичка област,2001,2864.59
+RS215,Поморавска област,2001,2507.12
+RS216,Расинска област,2001,2552.21
+RS217,Рашка област,2001,1825.86
+RS218,Шумадијска област,2001,2032.57
+RS221,Борска област,2001,2454.08
+RS222,Браничевска област,2001,2798.8
+RS223,Зајечарска област,2001,2296.38
+RS224,Јабланичка област,2001,1892.69
+RS225,Нишавска област,2001,2888.97
+RS226,Пиротска област,2001,2213.33
+RS227,Подунавска област,2001,1661.7
+RS228,Пчињска област,2001,2407.77
+RS229,Топличка област,2001,1984.63
+SI031,Pomurska,2001,10565.76
+SI032,Podravska,2001,12445.53
+SI033,Koroska,2001,12944.2
+SI034,Savinjska,2001,13457.59
+SI035,Zasavska,2001,10469.15
+SI036,Posavska,2001,12745.59
+SI037,Jugovzhodna Slovenija,2001,14710.14
+SI038,Primorsko-notranjska,2001,11910.87
+SI041,Osrednjeslovenska,2001,21224.83
+SI042,Gorenjska,2001,13490.79
+SI043,Goriska,2001,14681.42
+SI044,Obalno-kraska,2001,15910.27
+HR021,Bjelovarsko-bilogorska županija,2001,6258.52
+HR022,Virovitičko-podravska županija,2001,6290.74
+HR023,Požeško-slavonska županija,2001,6089.44
+HR024,Brodsko-posavska županija,2001,5439.16
+HR025,Osječko-baranjska županija,2001,6543.85
+HR026,Vukovarsko-srijemska županija,2001,5143.95
+HR027,Karlovačka županija,2001,7251.97
+HR028,Sisačko-moslavačka županija,2001,7067.54
+HR031,Primorsko-goranska zupanija,2001,10545.08
+HR032,Licko-senjska zupanija,2001,6595.46
+HR033,Zadarska zupanija,2001,6922.61
+HR034,Sibensko-kninska zupanija,2001,6017.14
+HR035,Splitsko-dalmatinska zupanija,2001,7122.64
+HR036,Istarska zupanija,2001,11923.23
+HR037,Dubrovacko-neretvanska zupanija,2001,7900.34
+HR050,Grad Zagreb,2001,14123.94
+HR061,Međimurska županija,2001,6734.14
+HR062,Varaždinska županija,2001,7543.43
+HR063,Koprivničko-križevačka županija,2001,8552.58
+HR064,Krapinsko-zagorska županija,2001,6423.94
+HR065,Zagrebačka županija,2001,5851.5
+ME000,Crna Gora,2001,4020.13
+MK001,Vardarski,2001,2590.28
+MK002,Istocen,2001,1975.3
+MK003,Jugozapaden,2001,2286.25
+MK004,Jugoistocen,2001,2457.55
+MK005,Pelagoniski,2001,3509.3
+MK006,Poloski,2001,1364.35
+MK007,Severoistocen,2001,1709.51
+MK008,Skopski,2001,4464.7
+RS110,Београдска област,2001,4389.93
+RS121,Западнобачка област,2001,2862.21
+RS122,Јужнобанатска област,2001,3074.97
+RS123,Јужнобачка област,2001,4657.23
+RS124,Севернобанатска област,2001,2996.11
+RS125,Севернобачка област,2001,3004.78
+RS126,Средњобанатска област,2001,3425.66
+RS127,Сремска област,2001,2796.7
+RS211,Златиборска област,2001,2110.71
+RS212,Колубарска област,2001,2212.26
+RS213,Мачванска област,2001,2092.31
+RS214,Моравичка област,2001,2864.59
+RS215,Поморавска област,2001,2507.12
+RS216,Расинска област,2001,2552.21
+RS217,Рашка област,2001,1825.86
+RS218,Шумадијска област,2001,2032.57
+RS221,Борска област,2001,2454.08
+RS222,Браничевска област,2001,2798.8
+RS223,Зајечарска област,2001,2296.38
+RS224,Јабланичка област,2001,1892.69
+RS225,Нишавска област,2001,2888.97
+RS226,Пиротска област,2001,2213.33
+RS227,Подунавска област,2001,1661.7
+RS228,Пчињска област,2001,2407.77
+RS229,Топличка област,2001,1984.63
+SI031,Pomurska,2001,10565.76
+SI032,Podravska,2001,12445.53
+SI033,Koroska,2001,12944.2
+SI034,Savinjska,2001,13457.59
+SI035,Zasavska,2001,10469.15
+SI036,Posavska,2001,12745.59
+SI037,Jugovzhodna Slovenija,2001,14710.14
+SI038,Primorsko-notranjska,2001,11910.87
+SI041,Osrednjeslovenska,2001,21224.83
+SI042,Gorenjska,2001,13490.79
+SI043,Goriska,2001,14681.42
+SI044,Obalno-kraska,2001,15910.27
+KSV,Kosovo,2001,2341.2975419842574
+BIH,Brčko,2001,3368.3698116773485
+BIH,Federacija Bosna i Hercegovina,2001,2931.909561512991
+BIH,Repuplika Srpska,2001,2669.059894127764
+HR021,Bjelovarsko-bilogorska županija,2002,6747.56
+HR022,Virovitičko-podravska županija,2002,6518.1
+HR023,Požeško-slavonska županija,2002,6255.41
+HR024,Brodsko-posavska županija,2002,5683.88
+HR025,Osječko-baranjska županija,2002,7140.61
+HR026,Vukovarsko-srijemska županija,2002,5469.67
+HR027,Karlovačka županija,2002,7605.3
+HR028,Sisačko-moslavačka županija,2002,7036.71
+HR031,Primorsko-goranska zupanija,2002,10612.29
+HR032,Licko-senjska zupanija,2002,7758.89
+HR033,Zadarska zupanija,2002,7353.11
+HR034,Sibensko-kninska zupanija,2002,6455.21
+HR035,Splitsko-dalmatinska zupanija,2002,7345.08
+HR036,Istarska zupanija,2002,12646.59
+HR037,Dubrovacko-neretvanska zupanija,2002,8062.53
+HR050,Grad Zagreb,2002,14906.1
+HR061,Međimurska županija,2002,7339.87
+HR062,Varaždinska županija,2002,8257.39
+HR063,Koprivničko-križevačka županija,2002,8937.3
+HR064,Krapinsko-zagorska županija,2002,6411.77
+HR065,Zagrebačka županija,2002,6879.48
+ME000,Crna Gora,2002,4082.68
+MK001,Vardarski,2002,2630.65
+MK002,Istocen,2002,2093.74
+MK003,Jugozapaden,2002,2351.13
+MK004,Jugoistocen,2002,2516.95
+MK005,Pelagoniski,2002,3660.84
+MK006,Poloski,2002,1469.73
+MK007,Severoistocen,2002,1708.35
+MK008,Skopski,2002,4420.14
+RS110,Београдска област,2002,5141.18
+RS121,Западнобачка област,2002,2767.39
+RS122,Јужнобанатска област,2002,3058.58
+RS123,Јужнобачка област,2002,4852.57
+RS124,Севернобанатска област,2002,2962.55
+RS125,Севернобачка област,2002,3040.01
+RS126,Средњобанатска област,2002,3384.03
+RS127,Сремска област,2002,2769.36
+RS211,Златиборска област,2002,2245.61
+RS212,Колубарска област,2002,2257.81
+RS213,Мачванска област,2002,1990.95
+RS214,Моравичка област,2002,2873.41
+RS215,Поморавска област,2002,2674.41
+RS216,Расинска област,2002,2406.51
+RS217,Рашка област,2002,2139.03
+RS218,Шумадијска област,2002,2215.86
+RS221,Борска област,2002,2394.33
+RS222,Браничевска област,2002,3130.96
+RS223,Зајечарска област,2002,2114.85
+RS224,Јабланичка област,2002,2118.1
+RS225,Нишавска област,2002,3024.36
+RS226,Пиротска област,2002,2132.75
+RS227,Подунавска област,2002,1754.69
+RS228,Пчињска област,2002,2290.77
+RS229,Топличка област,2002,2050.45
+SI031,Pomurska,2002,10821.95
+SI032,Podravska,2002,13075.38
+SI033,Koroska,2002,12866.03
+SI034,Savinjska,2002,14112.31
+SI035,Zasavska,2002,10351.99
+SI036,Posavska,2002,13372.82
+SI037,Jugovzhodna Slovenija,2002,15265.59
+SI038,Primorsko-notranjska,2002,12241.68
+SI041,Osrednjeslovenska,2002,21900.38
+SI042,Gorenjska,2002,13839.53
+SI043,Goriska,2002,15067.07
+SI044,Obalno-kraska,2002,16476.73
+HR021,Bjelovarsko-bilogorska županija,2002,6747.56
+HR022,Virovitičko-podravska županija,2002,6518.1
+HR023,Požeško-slavonska županija,2002,6255.41
+HR024,Brodsko-posavska županija,2002,5683.88
+HR025,Osječko-baranjska županija,2002,7140.61
+HR026,Vukovarsko-srijemska županija,2002,5469.67
+HR027,Karlovačka županija,2002,7605.3
+HR028,Sisačko-moslavačka županija,2002,7036.71
+HR031,Primorsko-goranska zupanija,2002,10612.29
+HR032,Licko-senjska zupanija,2002,7758.89
+HR033,Zadarska zupanija,2002,7353.11
+HR034,Sibensko-kninska zupanija,2002,6455.21
+HR035,Splitsko-dalmatinska zupanija,2002,7345.08
+HR036,Istarska zupanija,2002,12646.59
+HR037,Dubrovacko-neretvanska zupanija,2002,8062.53
+HR050,Grad Zagreb,2002,14906.1
+HR061,Međimurska županija,2002,7339.87
+HR062,Varaždinska županija,2002,8257.39
+HR063,Koprivničko-križevačka županija,2002,8937.3
+HR064,Krapinsko-zagorska županija,2002,6411.77
+HR065,Zagrebačka županija,2002,6879.48
+ME000,Crna Gora,2002,4082.68
+MK001,Vardarski,2002,2630.65
+MK002,Istocen,2002,2093.74
+MK003,Jugozapaden,2002,2351.13
+MK004,Jugoistocen,2002,2516.95
+MK005,Pelagoniski,2002,3660.84
+MK006,Poloski,2002,1469.73
+MK007,Severoistocen,2002,1708.35
+MK008,Skopski,2002,4420.14
+RS110,Београдска област,2002,5141.18
+RS121,Западнобачка област,2002,2767.39
+RS122,Јужнобанатска област,2002,3058.58
+RS123,Јужнобачка област,2002,4852.57
+RS124,Севернобанатска област,2002,2962.55
+RS125,Севернобачка област,2002,3040.01
+RS126,Средњобанатска област,2002,3384.03
+RS127,Сремска област,2002,2769.36
+RS211,Златиборска област,2002,2245.61
+RS212,Колубарска област,2002,2257.81
+RS213,Мачванска област,2002,1990.95
+RS214,Моравичка област,2002,2873.41
+RS215,Поморавска област,2002,2674.41
+RS216,Расинска област,2002,2406.51
+RS217,Рашка област,2002,2139.03
+RS218,Шумадијска област,2002,2215.86
+RS221,Борска област,2002,2394.33
+RS222,Браничевска област,2002,3130.96
+RS223,Зајечарска област,2002,2114.85
+RS224,Јабланичка област,2002,2118.1
+RS225,Нишавска област,2002,3024.36
+RS226,Пиротска област,2002,2132.75
+RS227,Подунавска област,2002,1754.69
+RS228,Пчињска област,2002,2290.77
+RS229,Топличка област,2002,2050.45
+SI031,Pomurska,2002,10821.95
+SI032,Podravska,2002,13075.38
+SI033,Koroska,2002,12866.03
+SI034,Savinjska,2002,14112.31
+SI035,Zasavska,2002,10351.99
+SI036,Posavska,2002,13372.82
+SI037,Jugovzhodna Slovenija,2002,15265.59
+SI038,Primorsko-notranjska,2002,12241.68
+SI041,Osrednjeslovenska,2002,21900.38
+SI042,Gorenjska,2002,13839.53
+SI043,Goriska,2002,15067.07
+SI044,Obalno-kraska,2002,16476.73
+KSV,Kosovo,2002,2271.444014497073
+BIH,Brčko,2002,3533.4621181986254
+BIH,Federacija Bosna i Hercegovina,2002,3075.503361288253
+BIH,Repuplika Srpska,2002,2800.0790956176224
+HR021,Bjelovarsko-bilogorska županija,2003,6773.84
+HR022,Virovitičko-podravska županija,2003,6742.05
+HR023,Požeško-slavonska županija,2003,6833.16
+HR024,Brodsko-posavska županija,2003,5842.43
+HR025,Osječko-baranjska županija,2003,7196.97
+HR026,Vukovarsko-srijemska županija,2003,5809.55
+HR027,Karlovačka županija,2003,7356.6
+HR028,Sisačko-moslavačka županija,2003,7123.14
+HR031,Primorsko-goranska zupanija,2003,11619.01
+HR032,Licko-senjska zupanija,2003,9312.94
+HR033,Zadarska zupanija,2003,8349.26
+HR034,Sibensko-kninska zupanija,2003,7120.44
+HR035,Splitsko-dalmatinska zupanija,2003,7741.88
+HR036,Istarska zupanija,2003,13329.47
+HR037,Dubrovacko-neretvanska zupanija,2003,8737.52
+HR050,Grad Zagreb,2003,16036.63
+HR061,Međimurska županija,2003,7369.76
+HR062,Varaždinska županija,2003,8436.46
+HR063,Koprivničko-križevačka županija,2003,9049.89
+HR064,Krapinsko-zagorska županija,2003,6617.74
+HR065,Zagrebačka županija,2003,7044.08
+ME000,Crna Gora,2003,4170.08
+MK001,Vardarski,2003,3001.12
+MK002,Istocen,2003,2167.46
+MK003,Jugozapaden,2003,2139.34
+MK004,Jugoistocen,2003,2711.08
+MK005,Pelagoniski,2003,3921.49
+MK006,Poloski,2003,1673.15
+MK007,Severoistocen,2003,1803.22
+MK008,Skopski,2003,4278.17
+RS110,Београдска област,2003,5575.5
+RS121,Западнобачка област,2003,2722.86
+RS122,Јужнобанатска област,2003,3030.89
+RS123,Јужнобачка област,2003,4804.67
+RS124,Севернобанатска област,2003,2938.08
+RS125,Севернобачка област,2003,3045.07
+RS126,Средњобанатска област,2003,3335.28
+RS127,Сремска област,2003,2732.72
+RS211,Златиборска област,2003,2548.95
+RS212,Колубарска област,2003,2338.12
+RS213,Мачванска област,2003,1996.83
+RS214,Моравичка област,2003,2930.4
+RS215,Поморавска област,2003,2855.5
+RS216,Расинска област,2003,2490.97
+RS217,Рашка област,2003,2401.15
+RS218,Шумадијска област,2003,2365.7
+RS221,Борска област,2003,2624.74
+RS222,Браничевска област,2003,3239.93
+RS223,Зајечарска област,2003,2340.83
+RS224,Јабланичка област,2003,2187.71
+RS225,Нишавска област,2003,3257.65
+RS226,Пиротска област,2003,2194.68
+RS227,Подунавска област,2003,1649.46
+RS228,Пчињска област,2003,2351.41
+RS229,Топличка област,2003,1968.33
+SI031,Pomurska,2003,10849.96
+SI032,Podravska,2003,13193.27
+SI033,Koroska,2003,12877.84
+SI034,Savinjska,2003,14273.49
+SI035,Zasavska,2003,10318.67
+SI036,Posavska,2003,12758.21
+SI037,Jugovzhodna Slovenija,2003,15579.08
+SI038,Primorsko-notranjska,2003,12273.8
+SI041,Osrednjeslovenska,2003,23256.54
+SI042,Gorenjska,2003,14105.64
+SI043,Goriska,2003,15227.2
+SI044,Obalno-kraska,2003,16912.31
+HR021,Bjelovarsko-bilogorska županija,2003,6773.84
+HR022,Virovitičko-podravska županija,2003,6742.05
+HR023,Požeško-slavonska županija,2003,6833.16
+HR024,Brodsko-posavska županija,2003,5842.43
+HR025,Osječko-baranjska županija,2003,7196.97
+HR026,Vukovarsko-srijemska županija,2003,5809.55
+HR027,Karlovačka županija,2003,7356.6
+HR028,Sisačko-moslavačka županija,2003,7123.14
+HR031,Primorsko-goranska zupanija,2003,11619.01
+HR032,Licko-senjska zupanija,2003,9312.94
+HR033,Zadarska zupanija,2003,8349.26
+HR034,Sibensko-kninska zupanija,2003,7120.44
+HR035,Splitsko-dalmatinska zupanija,2003,7741.88
+HR036,Istarska zupanija,2003,13329.47
+HR037,Dubrovacko-neretvanska zupanija,2003,8737.52
+HR050,Grad Zagreb,2003,16036.63
+HR061,Međimurska županija,2003,7369.76
+HR062,Varaždinska županija,2003,8436.46
+HR063,Koprivničko-križevačka županija,2003,9049.89
+HR064,Krapinsko-zagorska županija,2003,6617.74
+HR065,Zagrebačka županija,2003,7044.08
+ME000,Crna Gora,2003,4170.08
+MK001,Vardarski,2003,3001.12
+MK002,Istocen,2003,2167.46
+MK003,Jugozapaden,2003,2139.34
+MK004,Jugoistocen,2003,2711.08
+MK005,Pelagoniski,2003,3921.49
+MK006,Poloski,2003,1673.15
+MK007,Severoistocen,2003,1803.22
+MK008,Skopski,2003,4278.17
+RS110,Београдска област,2003,5575.5
+RS121,Западнобачка област,2003,2722.86
+RS122,Јужнобанатска област,2003,3030.89
+RS123,Јужнобачка област,2003,4804.67
+RS124,Севернобанатска област,2003,2938.08
+RS125,Севернобачка област,2003,3045.07
+RS126,Средњобанатска област,2003,3335.28
+RS127,Сремска област,2003,2732.72
+RS211,Златиборска област,2003,2548.95
+RS212,Колубарска област,2003,2338.12
+RS213,Мачванска област,2003,1996.83
+RS214,Моравичка област,2003,2930.4
+RS215,Поморавска област,2003,2855.5
+RS216,Расинска област,2003,2490.97
+RS217,Рашка област,2003,2401.15
+RS218,Шумадијска област,2003,2365.7
+RS221,Борска област,2003,2624.74
+RS222,Браничевска област,2003,3239.93
+RS223,Зајечарска област,2003,2340.83
+RS224,Јабланичка област,2003,2187.71
+RS225,Нишавска област,2003,3257.65
+RS226,Пиротска област,2003,2194.68
+RS227,Подунавска област,2003,1649.46
+RS228,Пчињска област,2003,2351.41
+RS229,Топличка област,2003,1968.33
+SI031,Pomurska,2003,10849.96
+SI032,Podravska,2003,13193.27
+SI033,Koroska,2003,12877.84
+SI034,Savinjska,2003,14273.49
+SI035,Zasavska,2003,10318.67
+SI036,Posavska,2003,12758.21
+SI037,Jugovzhodna Slovenija,2003,15579.08
+SI038,Primorsko-notranjska,2003,12273.8
+SI041,Osrednjeslovenska,2003,23256.54
+SI042,Gorenjska,2003,14105.64
+SI043,Goriska,2003,15227.2
+SI044,Obalno-kraska,2003,16912.31
+KSV,Kosovo,2003,2289.6816349740225
+BIH,Brčko,2003,3046.61583
+BIH,Federacija Bosna i Hercegovina,2003,2651.608446
+BIH,Repuplika Srpska,2003,2414.026871
+HR021,Bjelovarsko-bilogorska županija,2004,6965.69
+HR022,Virovitičko-podravska županija,2004,6732.12
+HR023,Požeško-slavonska županija,2004,7108.28
+HR024,Brodsko-posavska županija,2004,6155.39
+HR025,Osječko-baranjska županija,2004,7632.56
+HR026,Vukovarsko-srijemska županija,2004,5979.1
+HR027,Karlovačka županija,2004,7326.3
+HR028,Sisačko-moslavačka županija,2004,7157.75
+HR031,Primorsko-goranska zupanija,2004,11641.15
+HR032,Licko-senjska zupanija,2004,11803.84
+HR033,Zadarska zupanija,2004,8516.62
+HR034,Sibensko-kninska zupanija,2004,7653.21
+HR035,Splitsko-dalmatinska zupanija,2004,8420.36
+HR036,Istarska zupanija,2004,13847.28
+HR037,Dubrovacko-neretvanska zupanija,2004,9666.59
+HR050,Grad Zagreb,2004,16812.88
+HR061,Međimurska županija,2004,7482.28
+HR062,Varaždinska županija,2004,8109.05
+HR063,Koprivničko-križevačka županija,2004,8873.42
+HR064,Krapinsko-zagorska županija,2004,6618.69
+HR065,Zagrebačka županija,2004,7409.76
+ME000,Crna Gora,2004,4343.72
+MK001,Vardarski,2004,2934.53
+MK002,Istocen,2004,2364.26
+MK003,Jugozapaden,2004,2422.49
+MK004,Jugoistocen,2004,2874.19
+MK005,Pelagoniski,2004,3711.95
+MK006,Poloski,2004,1581.44
+MK007,Severoistocen,2004,1788.97
+MK008,Skopski,2004,4660.42
+RS110,Београдска област,2004,6555.63
+RS121,Западнобачка област,2004,3005.36
+RS122,Јужнобанатска област,2004,3295.51
+RS123,Јужнобачка област,2004,5094.96
+RS124,Севернобанатска област,2004,3211.81
+RS125,Севернобачка област,2004,3294.14
+RS126,Средњобанатска област,2004,3651.19
+RS127,Сремска област,2004,2989.27
+RS211,Златиборска област,2004,2510.98
+RS212,Колубарска област,2004,2450.13
+RS213,Мачванска област,2004,2207.17
+RS214,Моравичка област,2004,3134.84
+RS215,Поморавска област,2004,2687.78
+RS216,Расинска област,2004,2553.54
+RS217,Рашка област,2004,2391.65
+RS218,Шумадијска област,2004,2485.18
+RS221,Борска област,2004,2411.01
+RS222,Браничевска област,2004,3378.61
+RS223,Зајечарска област,2004,2435.93
+RS224,Јабланичка област,2004,2063.84
+RS225,Нишавска област,2004,3572.48
+RS226,Пиротска област,2004,2322.35
+RS227,Подунавска област,2004,1787.7
+RS228,Пчињска област,2004,2080.08
+RS229,Топличка област,2004,1982.04
+SI031,Pomurska,2004,11415.79
+SI032,Podravska,2004,13865.24
+SI033,Koroska,2004,13321.14
+SI034,Savinjska,2004,14924.31
+SI035,Zasavska,2004,10665.34
+SI036,Posavska,2004,13316.28
+SI037,Jugovzhodna Slovenija,2004,16507.53
+SI038,Primorsko-notranjska,2004,12695.33
+SI041,Osrednjeslovenska,2004,24177.9
+SI042,Gorenjska,2004,14726.68
+SI043,Goriska,2004,15616.9
+SI044,Obalno-kraska,2004,17517.14
+HR021,Bjelovarsko-bilogorska županija,2004,6965.69
+HR022,Virovitičko-podravska županija,2004,6732.12
+HR023,Požeško-slavonska županija,2004,7108.28
+HR024,Brodsko-posavska županija,2004,6155.39
+HR025,Osječko-baranjska županija,2004,7632.56
+HR026,Vukovarsko-srijemska županija,2004,5979.1
+HR027,Karlovačka županija,2004,7326.3
+HR028,Sisačko-moslavačka županija,2004,7157.75
+HR031,Primorsko-goranska zupanija,2004,11641.15
+HR032,Licko-senjska zupanija,2004,11803.84
+HR033,Zadarska zupanija,2004,8516.62
+HR034,Sibensko-kninska zupanija,2004,7653.21
+HR035,Splitsko-dalmatinska zupanija,2004,8420.36
+HR036,Istarska zupanija,2004,13847.28
+HR037,Dubrovacko-neretvanska zupanija,2004,9666.59
+HR050,Grad Zagreb,2004,16812.88
+HR061,Međimurska županija,2004,7482.28
+HR062,Varaždinska županija,2004,8109.05
+HR063,Koprivničko-križevačka županija,2004,8873.42
+HR064,Krapinsko-zagorska županija,2004,6618.69
+HR065,Zagrebačka županija,2004,7409.76
+ME000,Crna Gora,2004,4343.72
+MK001,Vardarski,2004,2934.53
+MK002,Istocen,2004,2364.26
+MK003,Jugozapaden,2004,2422.49
+MK004,Jugoistocen,2004,2874.19
+MK005,Pelagoniski,2004,3711.95
+MK006,Poloski,2004,1581.44
+MK007,Severoistocen,2004,1788.97
+MK008,Skopski,2004,4660.42
+RS110,Београдска област,2004,6555.63
+RS121,Западнобачка област,2004,3005.36
+RS122,Јужнобанатска област,2004,3295.51
+RS123,Јужнобачка област,2004,5094.96
+RS124,Севернобанатска област,2004,3211.81
+RS125,Севернобачка област,2004,3294.14
+RS126,Средњобанатска област,2004,3651.19
+RS127,Сремска област,2004,2989.27
+RS211,Златиборска област,2004,2510.98
+RS212,Колубарска област,2004,2450.13
+RS213,Мачванска област,2004,2207.17
+RS214,Моравичка област,2004,3134.84
+RS215,Поморавска област,2004,2687.78
+RS216,Расинска област,2004,2553.54
+RS217,Рашка област,2004,2391.65
+RS218,Шумадијска област,2004,2485.18
+RS221,Борска област,2004,2411.01
+RS222,Браничевска област,2004,3378.61
+RS223,Зајечарска област,2004,2435.93
+RS224,Јабланичка област,2004,2063.84
+RS225,Нишавска област,2004,3572.48
+RS226,Пиротска област,2004,2322.35
+RS227,Подунавска област,2004,1787.7
+RS228,Пчињска област,2004,2080.08
+RS229,Топличка област,2004,1982.04
+SI031,Pomurska,2004,11415.79
+SI032,Podravska,2004,13865.24
+SI033,Koroska,2004,13321.14
+SI034,Savinjska,2004,14924.31
+SI035,Zasavska,2004,10665.34
+SI036,Posavska,2004,13316.28
+SI037,Jugovzhodna Slovenija,2004,16507.53
+SI038,Primorsko-notranjska,2004,12695.33
+SI041,Osrednjeslovenska,2004,24177.9
+SI042,Gorenjska,2004,14726.68
+SI043,Goriska,2004,15616.9
+SI044,Obalno-kraska,2004,17517.14
+KSV,Kosovo,2004,2170.965048850482
+BIH,Brčko,2004,3852.073022
+BIH,Federacija Bosna i Hercegovina,2004,3069.205005
+BIH,Repuplika Srpska,2004,2928.22858
+HR021,Bjelovarsko-bilogorska županija,2005,6873.06
+HR022,Virovitičko-podravska županija,2005,6606.72
+HR023,Požeško-slavonska županija,2005,7125.17
+HR024,Brodsko-posavska županija,2005,5854.76
+HR025,Osječko-baranjska županija,2005,8042.42
+HR026,Vukovarsko-srijemska županija,2005,6204.11
+HR027,Karlovačka županija,2005,7704.92
+HR028,Sisačko-moslavačka županija,2005,7675.24
+HR031,Primorsko-goranska zupanija,2005,12692.71
+HR032,Licko-senjska zupanija,2005,9256.38
+HR033,Zadarska zupanija,2005,8967.82
+HR034,Sibensko-kninska zupanija,2005,8291.01
+HR035,Splitsko-dalmatinska zupanija,2005,8436.99
+HR036,Istarska zupanija,2005,13824.31
+HR037,Dubrovacko-neretvanska zupanija,2005,10137.79
+HR050,Grad Zagreb,2005,17856.87
+HR061,Međimurska županija,2005,7750.48
+HR062,Varaždinska županija,2005,8346.46
+HR063,Koprivničko-križevačka županija,2005,8673.78
+HR064,Krapinsko-zagorska županija,2005,7177.97
+HR065,Zagrebačka županija,2005,8081.0
+ME000,Crna Gora,2005,4523.95
+MK001,Vardarski,2005,3472.57
+MK002,Istocen,2005,2305.55
+MK003,Jugozapaden,2005,2232.44
+MK004,Jugoistocen,2005,3357.58
+MK005,Pelagoniski,2005,4306.09
+MK006,Poloski,2005,1485.88
+MK007,Severoistocen,2005,2065.63
+MK008,Skopski,2005,4678.14
+RS110,Београдска област,2005,6893.82
+RS121,Западнобачка област,2005,3183.78
+RS122,Јужнобанатска област,2005,3507.24
+RS123,Јужнобачка област,2005,5438.14
+RS124,Севернобанатска област,2005,3416.06
+RS125,Севернобачка област,2005,3542.8
+RS126,Средњобанатска област,2005,3877.02
+RS127,Сремска област,2005,3208.24
+RS211,Златиборска област,2005,2566.75
+RS212,Колубарска област,2005,2513.21
+RS213,Мачванска област,2005,2368.35
+RS214,Моравичка област,2005,3440.77
+RS215,Поморавска област,2005,3039.08
+RS216,Расинска област,2005,2530.46
+RS217,Рашка област,2005,2422.72
+RS218,Шумадијска област,2005,2882.93
+RS221,Борска област,2005,2772.57
+RS222,Браничевска област,2005,3659.77
+RS223,Зајечарска област,2005,2331.31
+RS224,Јабланичка област,2005,1931.0
+RS225,Нишавска област,2005,3794.38
+RS226,Пиротска област,2005,2510.34
+RS227,Подунавска област,2005,1883.92
+RS228,Пчињска област,2005,2040.6
+RS229,Топличка област,2005,1787.43
+SI031,Pomurska,2005,11626.65
+SI032,Podravska,2005,14388.69
+SI033,Koroska,2005,13890.92
+SI034,Savinjska,2005,15575.58
+SI035,Zasavska,2005,11158.91
+SI036,Posavska,2005,14158.12
+SI037,Jugovzhodna Slovenija,2005,16772.11
+SI038,Primorsko-notranjska,2005,12883.41
+SI041,Osrednjeslovenska,2005,25201.12
+SI042,Gorenjska,2005,15003.52
+SI043,Goriska,2005,16172.19
+SI044,Obalno-kraska,2005,18012.35
+HR021,Bjelovarsko-bilogorska županija,2005,6873.06
+HR022,Virovitičko-podravska županija,2005,6606.72
+HR023,Požeško-slavonska županija,2005,7125.17
+HR024,Brodsko-posavska županija,2005,5854.76
+HR025,Osječko-baranjska županija,2005,8042.42
+HR026,Vukovarsko-srijemska županija,2005,6204.11
+HR027,Karlovačka županija,2005,7704.92
+HR028,Sisačko-moslavačka županija,2005,7675.24
+HR031,Primorsko-goranska zupanija,2005,12692.71
+HR032,Licko-senjska zupanija,2005,9256.38
+HR033,Zadarska zupanija,2005,8967.82
+HR034,Sibensko-kninska zupanija,2005,8291.01
+HR035,Splitsko-dalmatinska zupanija,2005,8436.99
+HR036,Istarska zupanija,2005,13824.31
+HR037,Dubrovacko-neretvanska zupanija,2005,10137.79
+HR050,Grad Zagreb,2005,17856.87
+HR061,Međimurska županija,2005,7750.48
+HR062,Varaždinska županija,2005,8346.46
+HR063,Koprivničko-križevačka županija,2005,8673.78
+HR064,Krapinsko-zagorska županija,2005,7177.97
+HR065,Zagrebačka županija,2005,8081.0
+ME000,Crna Gora,2005,4523.95
+MK001,Vardarski,2005,3472.57
+MK002,Istocen,2005,2305.55
+MK003,Jugozapaden,2005,2232.44
+MK004,Jugoistocen,2005,3357.58
+MK005,Pelagoniski,2005,4306.09
+MK006,Poloski,2005,1485.88
+MK007,Severoistocen,2005,2065.63
+MK008,Skopski,2005,4678.14
+RS110,Београдска област,2005,6893.82
+RS121,Западнобачка област,2005,3183.78
+RS122,Јужнобанатска област,2005,3507.24
+RS123,Јужнобачка област,2005,5438.14
+RS124,Севернобанатска област,2005,3416.06
+RS125,Севернобачка област,2005,3542.8
+RS126,Средњобанатска област,2005,3877.02
+RS127,Сремска област,2005,3208.24
+RS211,Златиборска област,2005,2566.75
+RS212,Колубарска област,2005,2513.21
+RS213,Мачванска област,2005,2368.35
+RS214,Моравичка област,2005,3440.77
+RS215,Поморавска област,2005,3039.08
+RS216,Расинска област,2005,2530.46
+RS217,Рашка област,2005,2422.72
+RS218,Шумадијска област,2005,2882.93
+RS221,Борска област,2005,2772.57
+RS222,Браничевска област,2005,3659.77
+RS223,Зајечарска област,2005,2331.31
+RS224,Јабланичка област,2005,1931.0
+RS225,Нишавска област,2005,3794.38
+RS226,Пиротска област,2005,2510.34
+RS227,Подунавска област,2005,1883.92
+RS228,Пчињска област,2005,2040.6
+RS229,Топличка област,2005,1787.43
+SI031,Pomurska,2005,11626.65
+SI032,Podravska,2005,14388.69
+SI033,Koroska,2005,13890.92
+SI034,Savinjska,2005,15575.58
+SI035,Zasavska,2005,11158.91
+SI036,Posavska,2005,14158.12
+SI037,Jugovzhodna Slovenija,2005,16772.11
+SI038,Primorsko-notranjska,2005,12883.41
+SI041,Osrednjeslovenska,2005,25201.12
+SI042,Gorenjska,2005,15003.52
+SI043,Goriska,2005,16172.19
+SI044,Obalno-kraska,2005,18012.35
+KSV,Kosovo,2005,2241.1626823844017
+BIH,Brčko,2005,4053.163166
+BIH,Federacija Bosna i Hercegovina,2005,3186.589996
+BIH,Repuplika Srpska,2005,3210.155782
+HR021,Bjelovarsko-bilogorska županija,2006,7623.78
+HR022,Virovitičko-podravska županija,2006,7436.46
+HR023,Požeško-slavonska županija,2006,7041.28
+HR024,Brodsko-posavska županija,2006,6207.15
+HR025,Osječko-baranjska županija,2006,8528.48
+HR026,Vukovarsko-srijemska županija,2006,6956.58
+HR027,Karlovačka županija,2006,8442.73
+HR028,Sisačko-moslavačka županija,2006,8704.58
+HR031,Primorsko-goranska zupanija,2006,13305.35
+HR032,Licko-senjska zupanija,2006,9443.35
+HR033,Zadarska zupanija,2006,8937.77
+HR034,Sibensko-kninska zupanija,2006,8215.39
+HR035,Splitsko-dalmatinska zupanija,2006,8953.15
+HR036,Istarska zupanija,2006,14207.33
+HR037,Dubrovacko-neretvanska zupanija,2006,10661.65
+HR050,Grad Zagreb,2006,18667.5
+HR061,Međimurska županija,2006,8458.98
+HR062,Varaždinska županija,2006,8754.59
+HR063,Koprivničko-križevačka županija,2006,9597.81
+HR064,Krapinsko-zagorska županija,2006,7271.03
+HR065,Zagrebačka županija,2006,7903.12
+ME000,Crna Gora,2006,4908.56
+MK001,Vardarski,2006,3484.74
+MK002,Istocen,2006,2731.1
+MK003,Jugozapaden,2006,2604.98
+MK004,Jugoistocen,2006,3158.62
+MK005,Pelagoniski,2006,3444.46
+MK006,Poloski,2006,1811.21
+MK007,Severoistocen,2006,1901.34
+MK008,Skopski,2006,5236.76
+RS110,Београдска област,2006,7453.83
+RS121,Западнобачка област,2006,3259.17
+RS122,Јужнобанатска област,2006,3583.13
+RS123,Јужнобачка област,2006,5521.52
+RS124,Севернобанатска област,2006,3488.27
+RS125,Севернобачка област,2006,3658.47
+RS126,Средњобанатска област,2006,3936.22
+RS127,Сремска област,2006,3303.39
+RS211,Златиборска област,2006,2785.36
+RS212,Колубарска област,2006,2763.81
+RS213,Мачванска област,2006,2178.89
+RS214,Моравичка област,2006,3707.12
+RS215,Поморавска област,2006,2984.75
+RS216,Расинска област,2006,2630.44
+RS217,Рашка област,2006,2628.7
+RS218,Шумадијска област,2006,2908.28
+RS221,Борска област,2006,3065.15
+RS222,Браничевска област,2006,3558.99
+RS223,Зајечарска област,2006,2226.41
+RS224,Јабланичка област,2006,2287.93
+RS225,Нишавска област,2006,4087.9
+RS226,Пиротска област,2006,2433.84
+RS227,Подунавска област,2006,2141.58
+RS228,Пчињска област,2006,2219.58
+RS229,Топличка област,2006,1858.0
+SI031,Pomurska,2006,12007.2
+SI032,Podravska,2006,15292.72
+SI033,Koroska,2006,14299.86
+SI034,Savinjska,2006,16175.92
+SI035,Zasavska,2006,11412.57
+SI036,Posavska,2006,14628.12
+SI037,Jugovzhodna Slovenija,2006,18115.94
+SI038,Primorsko-notranjska,2006,13461.16
+SI041,Osrednjeslovenska,2006,26793.87
+SI042,Gorenjska,2006,15440.97
+SI043,Goriska,2006,16831.67
+SI044,Obalno-kraska,2006,19075.57
+HR021,Bjelovarsko-bilogorska županija,2006,7623.78
+HR022,Virovitičko-podravska županija,2006,7436.46
+HR023,Požeško-slavonska županija,2006,7041.28
+HR024,Brodsko-posavska županija,2006,6207.15
+HR025,Osječko-baranjska županija,2006,8528.48
+HR026,Vukovarsko-srijemska županija,2006,6956.58
+HR027,Karlovačka županija,2006,8442.73
+HR028,Sisačko-moslavačka županija,2006,8704.58
+HR031,Primorsko-goranska zupanija,2006,13305.35
+HR032,Licko-senjska zupanija,2006,9443.35
+HR033,Zadarska zupanija,2006,8937.77
+HR034,Sibensko-kninska zupanija,2006,8215.39
+HR035,Splitsko-dalmatinska zupanija,2006,8953.15
+HR036,Istarska zupanija,2006,14207.33
+HR037,Dubrovacko-neretvanska zupanija,2006,10661.65
+HR050,Grad Zagreb,2006,18667.5
+HR061,Međimurska županija,2006,8458.98
+HR062,Varaždinska županija,2006,8754.59
+HR063,Koprivničko-križevačka županija,2006,9597.81
+HR064,Krapinsko-zagorska županija,2006,7271.03
+HR065,Zagrebačka županija,2006,7903.12
+ME000,Crna Gora,2006,4908.56
+MK001,Vardarski,2006,3484.74
+MK002,Istocen,2006,2731.1
+MK003,Jugozapaden,2006,2604.98
+MK004,Jugoistocen,2006,3158.62
+MK005,Pelagoniski,2006,3444.46
+MK006,Poloski,2006,1811.21
+MK007,Severoistocen,2006,1901.34
+MK008,Skopski,2006,5236.76
+RS110,Београдска област,2006,7453.83
+RS121,Западнобачка област,2006,3259.17
+RS122,Јужнобанатска област,2006,3583.13
+RS123,Јужнобачка област,2006,5521.52
+RS124,Севернобанатска област,2006,3488.27
+RS125,Севернобачка област,2006,3658.47
+RS126,Средњобанатска област,2006,3936.22
+RS127,Сремска област,2006,3303.39
+RS211,Златиборска област,2006,2785.36
+RS212,Колубарска област,2006,2763.81
+RS213,Мачванска област,2006,2178.89
+RS214,Моравичка област,2006,3707.12
+RS215,Поморавска област,2006,2984.75
+RS216,Расинска област,2006,2630.44
+RS217,Рашка област,2006,2628.7
+RS218,Шумадијска област,2006,2908.28
+RS221,Борска област,2006,3065.15
+RS222,Браничевска област,2006,3558.99
+RS223,Зајечарска област,2006,2226.41
+RS224,Јабланичка област,2006,2287.93
+RS225,Нишавска област,2006,4087.9
+RS226,Пиротска област,2006,2433.84
+RS227,Подунавска област,2006,2141.58
+RS228,Пчињска област,2006,2219.58
+RS229,Топличка област,2006,1858.0
+SI031,Pomurska,2006,12007.2
+SI032,Podravska,2006,15292.72
+SI033,Koroska,2006,14299.86
+SI034,Savinjska,2006,16175.92
+SI035,Zasavska,2006,11412.57
+SI036,Posavska,2006,14628.12
+SI037,Jugovzhodna Slovenija,2006,18115.94
+SI038,Primorsko-notranjska,2006,13461.16
+SI041,Osrednjeslovenska,2006,26793.87
+SI042,Gorenjska,2006,15440.97
+SI043,Goriska,2006,16831.67
+SI044,Obalno-kraska,2006,19075.57
+KSV,Kosovo,2006,2288.9934228805528
+BIH,Brčko,2006,4045.447455
+BIH,Federacija Bosna i Hercegovina,2006,3561.419995
+BIH,Repuplika Srpska,2006,3658.607169
+HR021,Bjelovarsko-bilogorska županija,2007,7413.27
+HR022,Virovitičko-podravska županija,2007,7639.13
+HR023,Požeško-slavonska županija,2007,7218.32
+HR024,Brodsko-posavska županija,2007,6429.76
+HR025,Osječko-baranjska županija,2007,9480.44
+HR026,Vukovarsko-srijemska županija,2007,6897.28
+HR027,Karlovačka županija,2007,9074.26
+HR028,Sisačko-moslavačka županija,2007,7961.08
+HR031,Primorsko-goranska zupanija,2007,13380.79
+HR032,Licko-senjska zupanija,2007,8866.95
+HR033,Zadarska zupanija,2007,9793.48
+HR034,Sibensko-kninska zupanija,2007,9206.94
+HR035,Splitsko-dalmatinska zupanija,2007,9766.0
+HR036,Istarska zupanija,2007,14832.52
+HR037,Dubrovacko-neretvanska zupanija,2007,12030.74
+HR050,Grad Zagreb,2007,19588.78
+HR061,Međimurska županija,2007,8710.01
+HR062,Varaždinska županija,2007,9113.47
+HR063,Koprivničko-križevačka županija,2007,9883.98
+HR064,Krapinsko-zagorska županija,2007,7815.37
+HR065,Zagrebačka županija,2007,8606.52
+ME000,Crna Gora,2007,5232.46
+MK001,Vardarski,2007,3259.74
+MK002,Istocen,2007,2873.36
+MK003,Jugozapaden,2007,2604.63
+MK004,Jugoistocen,2007,3506.76
+MK005,Pelagoniski,2007,3703.59
+MK006,Poloski,2007,1803.33
+MK007,Severoistocen,2007,1851.72
+MK008,Skopski,2007,5798.79
+RS110,Београдска област,2007,8218.7
+RS121,Западнобачка област,2007,3507.88
+RS122,Јужнобанатска област,2007,3859.12
+RS123,Јужнобачка област,2007,6004.72
+RS124,Севернобанатска област,2007,3766.27
+RS125,Севернобачка област,2007,3970.66
+RS126,Средњобанатска област,2007,4243.83
+RS127,Сремска област,2007,3576.1
+RS211,Златиборска област,2007,2872.36
+RS212,Колубарска област,2007,2893.98
+RS213,Мачванска област,2007,2541.22
+RS214,Моравичка област,2007,3858.01
+RS215,Поморавска област,2007,3261.63
+RS216,Расинска област,2007,2849.73
+RS217,Рашка област,2007,2620.21
+RS218,Шумадијска област,2007,3236.88
+RS221,Борска област,2007,2704.09
+RS222,Браничевска област,2007,3562.29
+RS223,Зајечарска област,2007,2099.8
+RS224,Јабланичка област,2007,1807.8
+RS225,Нишавска област,2007,3855.15
+RS226,Пиротска област,2007,2604.38
+RS227,Подунавска област,2007,2042.57
+RS228,Пчињска област,2007,2206.42
+RS229,Топличка област,2007,1856.71
+SI031,Pomurska,2007,12681.96
+SI032,Podravska,2007,16379.76
+SI033,Koroska,2007,15341.74
+SI034,Savinjska,2007,17345.08
+SI035,Zasavska,2007,11926.48
+SI036,Posavska,2007,15651.63
+SI037,Jugovzhodna Slovenija,2007,19344.8
+SI038,Primorsko-notranjska,2007,14492.64
+SI041,Osrednjeslovenska,2007,28321.8
+SI042,Gorenjska,2007,16540.19
+SI043,Goriska,2007,18489.25
+SI044,Obalno-kraska,2007,20492.69
+HR021,Bjelovarsko-bilogorska županija,2007,7413.27
+HR022,Virovitičko-podravska županija,2007,7639.13
+HR023,Požeško-slavonska županija,2007,7218.32
+HR024,Brodsko-posavska županija,2007,6429.76
+HR025,Osječko-baranjska županija,2007,9480.44
+HR026,Vukovarsko-srijemska županija,2007,6897.28
+HR027,Karlovačka županija,2007,9074.26
+HR028,Sisačko-moslavačka županija,2007,7961.08
+HR031,Primorsko-goranska zupanija,2007,13380.79
+HR032,Licko-senjska zupanija,2007,8866.95
+HR033,Zadarska zupanija,2007,9793.48
+HR034,Sibensko-kninska zupanija,2007,9206.94
+HR035,Splitsko-dalmatinska zupanija,2007,9766.0
+HR036,Istarska zupanija,2007,14832.52
+HR037,Dubrovacko-neretvanska zupanija,2007,12030.74
+HR050,Grad Zagreb,2007,19588.78
+HR061,Međimurska županija,2007,8710.01
+HR062,Varaždinska županija,2007,9113.47
+HR063,Koprivničko-križevačka županija,2007,9883.98
+HR064,Krapinsko-zagorska županija,2007,7815.37
+HR065,Zagrebačka županija,2007,8606.52
+ME000,Crna Gora,2007,5232.46
+MK001,Vardarski,2007,3259.74
+MK002,Istocen,2007,2873.36
+MK003,Jugozapaden,2007,2604.63
+MK004,Jugoistocen,2007,3506.76
+MK005,Pelagoniski,2007,3703.59
+MK006,Poloski,2007,1803.33
+MK007,Severoistocen,2007,1851.72
+MK008,Skopski,2007,5798.79
+RS110,Београдска област,2007,8218.7
+RS121,Западнобачка област,2007,3507.88
+RS122,Јужнобанатска област,2007,3859.12
+RS123,Јужнобачка област,2007,6004.72
+RS124,Севернобанатска област,2007,3766.27
+RS125,Севернобачка област,2007,3970.66
+RS126,Средњобанатска област,2007,4243.83
+RS127,Сремска област,2007,3576.1
+RS211,Златиборска област,2007,2872.36
+RS212,Колубарска област,2007,2893.98
+RS213,Мачванска област,2007,2541.22
+RS214,Моравичка област,2007,3858.01
+RS215,Поморавска област,2007,3261.63
+RS216,Расинска област,2007,2849.73
+RS217,Рашка област,2007,2620.21
+RS218,Шумадијска област,2007,3236.88
+RS221,Борска област,2007,2704.09
+RS222,Браничевска област,2007,3562.29
+RS223,Зајечарска област,2007,2099.8
+RS224,Јабланичка област,2007,1807.8
+RS225,Нишавска област,2007,3855.15
+RS226,Пиротска област,2007,2604.38
+RS227,Подунавска област,2007,2042.57
+RS228,Пчињска област,2007,2206.42
+RS229,Топличка област,2007,1856.71
+SI031,Pomurska,2007,12681.96
+SI032,Podravska,2007,16379.76
+SI033,Koroska,2007,15341.74
+SI034,Savinjska,2007,17345.08
+SI035,Zasavska,2007,11926.48
+SI036,Posavska,2007,15651.63
+SI037,Jugovzhodna Slovenija,2007,19344.8
+SI038,Primorsko-notranjska,2007,14492.64
+SI041,Osrednjeslovenska,2007,28321.8
+SI042,Gorenjska,2007,16540.19
+SI043,Goriska,2007,18489.25
+SI044,Obalno-kraska,2007,20492.69
+KSV,Kosovo,2007,2444.8734620514624
+BIH,Brčko,2007,5070.664291
+BIH,Federacija Bosna i Hercegovina,2007,4340.760756
+BIH,Repuplika Srpska,2007,4414.734858
+HR021,Bjelovarsko-bilogorska županija,2008,8266.41
+HR022,Virovitičko-podravska županija,2008,7506.59
+HR023,Požeško-slavonska županija,2008,7378.38
+HR024,Brodsko-posavska županija,2008,6781.37
+HR025,Osječko-baranjska županija,2008,9725.85
+HR026,Vukovarsko-srijemska županija,2008,7349.68
+HR027,Karlovačka županija,2008,9047.72
+HR028,Sisačko-moslavačka županija,2008,8575.23
+HR031,Primorsko-goranska zupanija,2008,14316.0
+HR032,Licko-senjska zupanija,2008,9820.32
+HR033,Zadarska zupanija,2008,10159.11
+HR034,Sibensko-kninska zupanija,2008,8803.27
+HR035,Splitsko-dalmatinska zupanija,2008,9539.39
+HR036,Istarska zupanija,2008,14340.9
+HR037,Dubrovacko-neretvanska zupanija,2008,11681.28
+HR050,Grad Zagreb,2008,19903.93
+HR061,Međimurska županija,2008,9436.6
+HR062,Varaždinska županija,2008,9655.07
+HR063,Koprivničko-križevačka županija,2008,9485.97
+HR064,Krapinsko-zagorska županija,2008,7546.62
+HR065,Zagrebačka županija,2008,8846.79
+ME000,Crna Gora,2008,5598.93
+MK001,Vardarski,2008,3417.78
+MK002,Istocen,2008,3249.73
+MK003,Jugozapaden,2008,3017.88
+MK004,Jugoistocen,2008,3351.67
+MK005,Pelagoniski,2008,4040.87
+MK006,Poloski,2008,1950.37
+MK007,Severoistocen,2008,2463.32
+MK008,Skopski,2008,5797.66
+RS110,Београдска област,2008,8908.94
+RS121,Западнобачка област,2008,3758.95
+RS122,Јужнобанатска област,2008,4044.63
+RS123,Јужнобачка област,2008,6033.51
+RS124,Севернобанатска област,2008,3986.94
+RS125,Севернобачка област,2008,4135.04
+RS126,Средњобанатска област,2008,4472.46
+RS127,Сремска област,2008,3741.05
+RS211,Златиборска област,2008,2963.18
+RS212,Колубарска област,2008,3043.89
+RS213,Мачванска област,2008,2845.23
+RS214,Моравичка област,2008,4124.8
+RS215,Поморавска област,2008,3321.13
+RS216,Расинска област,2008,2899.62
+RS217,Рашка област,2008,2722.53
+RS218,Шумадијска област,2008,3182.84
+RS221,Борска област,2008,2890.25
+RS222,Браничевска област,2008,3805.07
+RS223,Зајечарска област,2008,2402.95
+RS224,Јабланичка област,2008,1955.62
+RS225,Нишавска област,2008,3992.99
+RS226,Пиротска област,2008,2704.18
+RS227,Подунавска област,2008,2227.1
+RS228,Пчињска област,2008,2273.99
+RS229,Топличка област,2008,1977.01
+SI031,Pomurska,2008,12965.44
+SI032,Podravska,2008,16966.49
+SI033,Koroska,2008,15708.01
+SI034,Savinjska,2008,18274.4
+SI035,Zasavska,2008,12366.33
+SI036,Posavska,2008,16265.51
+SI037,Jugovzhodna Slovenija,2008,19785.51
+SI038,Primorsko-notranjska,2008,14874.47
+SI041,Osrednjeslovenska,2008,28778.61
+SI042,Gorenjska,2008,16821.64
+SI043,Goriska,2008,18974.36
+SI044,Obalno-kraska,2008,21272.88
+HR021,Bjelovarsko-bilogorska županija,2008,8266.41
+HR022,Virovitičko-podravska županija,2008,7506.59
+HR023,Požeško-slavonska županija,2008,7378.38
+HR024,Brodsko-posavska županija,2008,6781.37
+HR025,Osječko-baranjska županija,2008,9725.85
+HR026,Vukovarsko-srijemska županija,2008,7349.68
+HR027,Karlovačka županija,2008,9047.72
+HR028,Sisačko-moslavačka županija,2008,8575.23
+HR031,Primorsko-goranska zupanija,2008,14316.0
+HR032,Licko-senjska zupanija,2008,9820.32
+HR033,Zadarska zupanija,2008,10159.11
+HR034,Sibensko-kninska zupanija,2008,8803.27
+HR035,Splitsko-dalmatinska zupanija,2008,9539.39
+HR036,Istarska zupanija,2008,14340.9
+HR037,Dubrovacko-neretvanska zupanija,2008,11681.28
+HR050,Grad Zagreb,2008,19903.93
+HR061,Međimurska županija,2008,9436.6
+HR062,Varaždinska županija,2008,9655.07
+HR063,Koprivničko-križevačka županija,2008,9485.97
+HR064,Krapinsko-zagorska županija,2008,7546.62
+HR065,Zagrebačka županija,2008,8846.79
+ME000,Crna Gora,2008,5598.93
+MK001,Vardarski,2008,3417.78
+MK002,Istocen,2008,3249.73
+MK003,Jugozapaden,2008,3017.88
+MK004,Jugoistocen,2008,3351.67
+MK005,Pelagoniski,2008,4040.87
+MK006,Poloski,2008,1950.37
+MK007,Severoistocen,2008,2463.32
+MK008,Skopski,2008,5797.66
+RS110,Београдска област,2008,8908.94
+RS121,Западнобачка област,2008,3758.95
+RS122,Јужнобанатска област,2008,4044.63
+RS123,Јужнобачка област,2008,6033.51
+RS124,Севернобанатска област,2008,3986.94
+RS125,Севернобачка област,2008,4135.04
+RS126,Средњобанатска област,2008,4472.46
+RS127,Сремска област,2008,3741.05
+RS211,Златиборска област,2008,2963.18
+RS212,Колубарска област,2008,3043.89
+RS213,Мачванска област,2008,2845.23
+RS214,Моравичка област,2008,4124.8
+RS215,Поморавска област,2008,3321.13
+RS216,Расинска област,2008,2899.62
+RS217,Рашка област,2008,2722.53
+RS218,Шумадијска област,2008,3182.84
+RS221,Борска област,2008,2890.25
+RS222,Браничевска област,2008,3805.07
+RS223,Зајечарска област,2008,2402.95
+RS224,Јабланичка област,2008,1955.62
+RS225,Нишавска област,2008,3992.99
+RS226,Пиротска област,2008,2704.18
+RS227,Подунавска област,2008,2227.1
+RS228,Пчињска област,2008,2273.99
+RS229,Топличка област,2008,1977.01
+SI031,Pomurska,2008,12965.44
+SI032,Podravska,2008,16966.49
+SI033,Koroska,2008,15708.01
+SI034,Savinjska,2008,18274.4
+SI035,Zasavska,2008,12366.33
+SI036,Posavska,2008,16265.51
+SI037,Jugovzhodna Slovenija,2008,19785.51
+SI038,Primorsko-notranjska,2008,14874.47
+SI041,Osrednjeslovenska,2008,28778.61
+SI042,Gorenjska,2008,16821.64
+SI043,Goriska,2008,18974.36
+SI044,Obalno-kraska,2008,21272.88
+KSV,Kosovo,2008,2057.0
+BIH,Brčko,2008,5752.575763
+BIH,Federacija Bosna i Hercegovina,2008,5226.428221
+BIH,Repuplika Srpska,2008,5329.418795
+HR021,Bjelovarsko-bilogorska županija,2009,7860.48
+HR022,Virovitičko-podravska županija,2009,6621.9
+HR023,Požeško-slavonska županija,2009,6668.34
+HR024,Brodsko-posavska županija,2009,6194.71
+HR025,Osječko-baranjska županija,2009,8976.69
+HR026,Vukovarsko-srijemska županija,2009,6732.1
+HR027,Karlovačka županija,2009,8129.43
+HR028,Sisačko-moslavačka županija,2009,8569.41
+HR031,Primorsko-goranska zupanija,2009,13322.68
+HR032,Licko-senjska zupanija,2009,8771.06
+HR033,Zadarska zupanija,2009,9134.3
+HR034,Sibensko-kninska zupanija,2009,7535.49
+HR035,Splitsko-dalmatinska zupanija,2009,8713.13
+HR036,Istarska zupanija,2009,13748.14
+HR037,Dubrovacko-neretvanska zupanija,2009,10797.58
+HR050,Grad Zagreb,2009,18509.41
+HR061,Međimurska županija,2009,8815.57
+HR062,Varaždinska županija,2009,9067.57
+HR063,Koprivničko-križevačka županija,2009,8785.65
+HR064,Krapinsko-zagorska županija,2009,6676.37
+HR065,Zagrebačka županija,2009,8337.29
+ME000,Crna Gora,2009,5257.89
+MK001,Vardarski,2009,3474.05
+MK002,Istocen,2009,3326.05
+MK003,Jugozapaden,2009,2662.38
+MK004,Jugoistocen,2009,3672.31
+MK005,Pelagoniski,2009,4063.29
+MK006,Poloski,2009,1917.73
+MK007,Severoistocen,2009,2123.15
+MK008,Skopski,2009,5830.16
+RS110,Београдска област,2009,8486.02
+RS121,Западнобачка област,2009,3441.44
+RS122,Јужнобанатска област,2009,3751.29
+RS123,Јужнобачка област,2009,5754.35
+RS124,Севернобанатска област,2009,3692.43
+RS125,Севернобачка област,2009,3924.11
+RS126,Средњобанатска област,2009,4125.47
+RS127,Сремска област,2009,3528.58
+RS211,Златиборска област,2009,3227.69
+RS212,Колубарска област,2009,3430.7
+RS213,Мачванска област,2009,2923.7
+RS214,Моравичка област,2009,3932.19
+RS215,Поморавска област,2009,3412.01
+RS216,Расинска област,2009,2883.04
+RS217,Рашка област,2009,2811.77
+RS218,Шумадијска област,2009,3175.42
+RS221,Борска област,2009,3214.31
+RS222,Браничевска област,2009,4171.45
+RS223,Зајечарска област,2009,2374.22
+RS224,Јабланичка област,2009,2021.76
+RS225,Нишавска област,2009,3909.56
+RS226,Пиротска област,2009,3204.67
+RS227,Подунавска област,2009,2142.51
+RS228,Пчињска област,2009,2196.1
+RS229,Топличка област,2009,2163.48
+SI031,Pomurska,2009,11978.27
+SI032,Podravska,2009,15470.9
+SI033,Koroska,2009,13829.14
+SI034,Savinjska,2009,16501.79
+SI035,Zasavska,2009,11243.26
+SI036,Posavska,2009,15098.68
+SI037,Jugovzhodna Slovenija,2009,17671.44
+SI038,Primorsko-notranjska,2009,13649.09
+SI041,Osrednjeslovenska,2009,26774.35
+SI042,Gorenjska,2009,14823.62
+SI043,Goriska,2009,17203.83
+SI044,Obalno-kraska,2009,19688.61
+HR021,Bjelovarsko-bilogorska županija,2009,7860.48
+HR022,Virovitičko-podravska županija,2009,6621.9
+HR023,Požeško-slavonska županija,2009,6668.34
+HR024,Brodsko-posavska županija,2009,6194.71
+HR025,Osječko-baranjska županija,2009,8976.69
+HR026,Vukovarsko-srijemska županija,2009,6732.1
+HR027,Karlovačka županija,2009,8129.43
+HR028,Sisačko-moslavačka županija,2009,8569.41
+HR031,Primorsko-goranska zupanija,2009,13322.68
+HR032,Licko-senjska zupanija,2009,8771.06
+HR033,Zadarska zupanija,2009,9134.3
+HR034,Sibensko-kninska zupanija,2009,7535.49
+HR035,Splitsko-dalmatinska zupanija,2009,8713.13
+HR036,Istarska zupanija,2009,13748.14
+HR037,Dubrovacko-neretvanska zupanija,2009,10797.58
+HR050,Grad Zagreb,2009,18509.41
+HR061,Međimurska županija,2009,8815.57
+HR062,Varaždinska županija,2009,9067.57
+HR063,Koprivničko-križevačka županija,2009,8785.65
+HR064,Krapinsko-zagorska županija,2009,6676.37
+HR065,Zagrebačka županija,2009,8337.29
+ME000,Crna Gora,2009,5257.89
+MK001,Vardarski,2009,3474.05
+MK002,Istocen,2009,3326.05
+MK003,Jugozapaden,2009,2662.38
+MK004,Jugoistocen,2009,3672.31
+MK005,Pelagoniski,2009,4063.29
+MK006,Poloski,2009,1917.73
+MK007,Severoistocen,2009,2123.15
+MK008,Skopski,2009,5830.16
+RS110,Београдска област,2009,8486.02
+RS121,Западнобачка област,2009,3441.44
+RS122,Јужнобанатска област,2009,3751.29
+RS123,Јужнобачка област,2009,5754.35
+RS124,Севернобанатска област,2009,3692.43
+RS125,Севернобачка област,2009,3924.11
+RS126,Средњобанатска област,2009,4125.47
+RS127,Сремска област,2009,3528.58
+RS211,Златиборска област,2009,3227.69
+RS212,Колубарска област,2009,3430.7
+RS213,Мачванска област,2009,2923.7
+RS214,Моравичка област,2009,3932.19
+RS215,Поморавска област,2009,3412.01
+RS216,Расинска област,2009,2883.04
+RS217,Рашка област,2009,2811.77
+RS218,Шумадијска област,2009,3175.42
+RS221,Борска област,2009,3214.31
+RS222,Браничевска област,2009,4171.45
+RS223,Зајечарска област,2009,2374.22
+RS224,Јабланичка област,2009,2021.76
+RS225,Нишавска област,2009,3909.56
+RS226,Пиротска област,2009,3204.67
+RS227,Подунавска област,2009,2142.51
+RS228,Пчињска област,2009,2196.1
+RS229,Топличка област,2009,2163.48
+SI031,Pomurska,2009,11978.27
+SI032,Podravska,2009,15470.9
+SI033,Koroska,2009,13829.14
+SI034,Savinjska,2009,16501.79
+SI035,Zasavska,2009,11243.26
+SI036,Posavska,2009,15098.68
+SI037,Jugovzhodna Slovenija,2009,17671.44
+SI038,Primorsko-notranjska,2009,13649.09
+SI041,Osrednjeslovenska,2009,26774.35
+SI042,Gorenjska,2009,14823.62
+SI043,Goriska,2009,17203.83
+SI044,Obalno-kraska,2009,19688.61
+KSV,Kosovo,2009,2066.0
+BIH,Brčko,2009,5341.386322
+BIH,Federacija Bosna i Hercegovina,2009,4758.009131
+BIH,Repuplika Srpska,2009,4799.929486
+HR021,Bjelovarsko-bilogorska županija,2010,7108.42
+HR022,Virovitičko-podravska županija,2010,6194.99
+HR023,Požeško-slavonska županija,2010,6507.43
+HR024,Brodsko-posavska županija,2010,5870.11
+HR025,Osječko-baranjska županija,2010,8437.54
+HR026,Vukovarsko-srijemska županija,2010,6257.73
+HR027,Karlovačka županija,2010,7849.61
+HR028,Sisačko-moslavačka županija,2010,8557.18
+HR031,Primorsko-goranska zupanija,2010,13045.26
+HR032,Licko-senjska zupanija,2010,8205.33
+HR033,Zadarska zupanija,2010,8482.35
+HR034,Sibensko-kninska zupanija,2010,8039.16
+HR035,Splitsko-dalmatinska zupanija,2010,8476.11
+HR036,Istarska zupanija,2010,13449.07
+HR037,Dubrovacko-neretvanska zupanija,2010,10396.9
+HR050,Grad Zagreb,2010,19464.7
+HR061,Međimurska županija,2010,8331.28
+HR062,Varaždinska županija,2010,8508.73
+HR063,Koprivničko-križevačka županija,2010,8205.3
+HR064,Krapinsko-zagorska županija,2010,6181.98
+HR065,Zagrebačka županija,2010,7748.65
+ME000,Crna Gora,2010,5391.73
+MK001,Vardarski,2010,3733.94
+MK002,Istocen,2010,3870.48
+MK003,Jugozapaden,2010,2969.06
+MK004,Jugoistocen,2010,4164.67
+MK005,Pelagoniski,2010,4155.7
+MK006,Poloski,2010,1968.53
+MK007,Severoistocen,2010,2170.88
+MK008,Skopski,2010,5671.02
+RS110,Београдска област,2010,8510.25
+RS121,Западнобачка област,2010,3515.07
+RS122,Јужнобанатска област,2010,3825.91
+RS123,Јужнобачка област,2010,5896.66
+RS124,Севернобанатска област,2010,3779.42
+RS125,Севернобачка област,2010,4016.56
+RS126,Средњобанатска област,2010,4227.33
+RS127,Сремска област,2010,3615.57
+RS211,Златиборска област,2010,3246.07
+RS212,Колубарска област,2010,3393.05
+RS213,Мачванска област,2010,3090.76
+RS214,Моравичка област,2010,3930.64
+RS215,Поморавска област,2010,3322.08
+RS216,Расинска област,2010,2922.74
+RS217,Рашка област,2010,2705.01
+RS218,Шумадијска област,2010,3169.11
+RS221,Борска област,2010,4010.76
+RS222,Браничевска област,2010,4150.3
+RS223,Зајечарска област,2010,2312.21
+RS224,Јабланичка област,2010,2032.82
+RS225,Нишавска област,2010,3816.44
+RS226,Пиротска област,2010,3425.67
+RS227,Подунавска област,2010,2345.58
+RS228,Пчињска област,2010,2166.63
+RS229,Топличка област,2010,2088.55
+SI031,Pomurska,2010,12080.12
+SI032,Podravska,2010,15528.06
+SI033,Koroska,2010,14008.25
+SI034,Savinjska,2010,17054.31
+SI035,Zasavska,2010,11495.78
+SI036,Posavska,2010,15305.02
+SI037,Jugovzhodna Slovenija,2010,18000.42
+SI038,Primorsko-notranjska,2010,13376.72
+SI041,Osrednjeslovenska,2010,26680.02
+SI042,Gorenjska,2010,15199.11
+SI043,Goriska,2010,17212.43
+SI044,Obalno-kraska,2010,19944.0
+HR021,Bjelovarsko-bilogorska županija,2010,7108.42
+HR022,Virovitičko-podravska županija,2010,6194.99
+HR023,Požeško-slavonska županija,2010,6507.43
+HR024,Brodsko-posavska županija,2010,5870.11
+HR025,Osječko-baranjska županija,2010,8437.54
+HR026,Vukovarsko-srijemska županija,2010,6257.73
+HR027,Karlovačka županija,2010,7849.61
+HR028,Sisačko-moslavačka županija,2010,8557.18
+HR031,Primorsko-goranska zupanija,2010,13045.26
+HR032,Licko-senjska zupanija,2010,8205.33
+HR033,Zadarska zupanija,2010,8482.35
+HR034,Sibensko-kninska zupanija,2010,8039.16
+HR035,Splitsko-dalmatinska zupanija,2010,8476.11
+HR036,Istarska zupanija,2010,13449.07
+HR037,Dubrovacko-neretvanska zupanija,2010,10396.9
+HR050,Grad Zagreb,2010,19464.7
+HR061,Međimurska županija,2010,8331.28
+HR062,Varaždinska županija,2010,8508.73
+HR063,Koprivničko-križevačka županija,2010,8205.3
+HR064,Krapinsko-zagorska županija,2010,6181.98
+HR065,Zagrebačka županija,2010,7748.65
+ME000,Crna Gora,2010,5391.73
+MK001,Vardarski,2010,3733.94
+MK002,Istocen,2010,3870.48
+MK003,Jugozapaden,2010,2969.06
+MK004,Jugoistocen,2010,4164.67
+MK005,Pelagoniski,2010,4155.7
+MK006,Poloski,2010,1968.53
+MK007,Severoistocen,2010,2170.88
+MK008,Skopski,2010,5671.02
+RS110,Београдска област,2010,8510.25
+RS121,Западнобачка област,2010,3515.07
+RS122,Јужнобанатска област,2010,3825.91
+RS123,Јужнобачка област,2010,5896.66
+RS124,Севернобанатска област,2010,3779.42
+RS125,Севернобачка област,2010,4016.56
+RS126,Средњобанатска област,2010,4227.33
+RS127,Сремска област,2010,3615.57
+RS211,Златиборска област,2010,3246.07
+RS212,Колубарска област,2010,3393.05
+RS213,Мачванска област,2010,3090.76
+RS214,Моравичка област,2010,3930.64
+RS215,Поморавска област,2010,3322.08
+RS216,Расинска област,2010,2922.74
+RS217,Рашка област,2010,2705.01
+RS218,Шумадијска област,2010,3169.11
+RS221,Борска област,2010,4010.76
+RS222,Браничевска област,2010,4150.3
+RS223,Зајечарска област,2010,2312.21
+RS224,Јабланичка област,2010,2032.82
+RS225,Нишавска област,2010,3816.44
+RS226,Пиротска област,2010,3425.67
+RS227,Подунавска област,2010,2345.58
+RS228,Пчињска област,2010,2166.63
+RS229,Топличка област,2010,2088.55
+SI031,Pomurska,2010,12080.12
+SI032,Podravska,2010,15528.06
+SI033,Koroska,2010,14008.25
+SI034,Savinjska,2010,17054.31
+SI035,Zasavska,2010,11495.78
+SI036,Posavska,2010,15305.02
+SI037,Jugovzhodna Slovenija,2010,18000.42
+SI038,Primorsko-notranjska,2010,13376.72
+SI041,Osrednjeslovenska,2010,26680.02
+SI042,Gorenjska,2010,15199.11
+SI043,Goriska,2010,17212.43
+SI044,Obalno-kraska,2010,19944.0
+KSV,Kosovo,2010,2271.0
+BIH,Brčko,2010,5046.942509
+BIH,Federacija Bosna i Hercegovina,2010,4640.681283
+BIH,Repuplika Srpska,2010,4513.065798
+HR021,Bjelovarsko-bilogorska županija,2011,7081.14
+HR022,Virovitičko-podravska županija,2011,6363.1
+HR023,Požeško-slavonska županija,2011,6408.64
+HR024,Brodsko-posavska županija,2011,5931.68
+HR025,Osječko-baranjska županija,2011,8464.49
+HR026,Vukovarsko-srijemska županija,2011,6329.24
+HR027,Karlovačka županija,2011,8005.29
+HR028,Sisačko-moslavačka županija,2011,8598.1
+HR031,Primorsko-goranska zupanija,2011,13316.9
+HR032,Licko-senjska zupanija,2011,8169.63
+HR033,Zadarska zupanija,2011,8282.38
+HR034,Sibensko-kninska zupanija,2011,8067.71
+HR035,Splitsko-dalmatinska zupanija,2011,8236.44
+HR036,Istarska zupanija,2011,13366.01
+HR037,Dubrovacko-neretvanska zupanija,2011,10079.95
+HR050,Grad Zagreb,2011,19466.49
+HR061,Međimurska županija,2011,8443.49
+HR062,Varaždinska županija,2011,8533.89
+HR063,Koprivničko-križevačka županija,2011,8215.99
+HR064,Krapinsko-zagorska županija,2011,6301.35
+HR065,Zagrebačka županija,2011,7963.18
+ME000,Crna Gora,2011,5559.93
+MK001,Vardarski,2011,3909.71
+MK002,Istocen,2011,3978.53
+MK003,Jugozapaden,2011,3093.24
+MK004,Jugoistocen,2011,4456.99
+MK005,Pelagoniski,2011,3978.96
+MK006,Poloski,2011,2022.69
+MK007,Severoistocen,2011,2588.62
+MK008,Skopski,2011,5666.78
+RS110,Београдска област,2011,8456.32
+RS121,Западнобачка област,2011,3869.3
+RS122,Јужнобанатска област,2011,4110.87
+RS123,Јужнобачка област,2011,6154.97
+RS124,Севернобанатска област,2011,4120.01
+RS125,Севернобачка област,2011,4237.21
+RS126,Средњобанатска област,2011,4617.14
+RS127,Сремска област,2011,3847.72
+RS211,Златиборска област,2011,3578.08
+RS212,Колубарска област,2011,3584.92
+RS213,Мачванска област,2011,3490.56
+RS214,Моравичка област,2011,3720.33
+RS215,Поморавска област,2011,3294.08
+RS216,Расинска област,2011,2995.87
+RS217,Рашка област,2011,2544.91
+RS218,Шумадијска област,2011,3294.94
+RS221,Борска област,2011,4803.26
+RS222,Браничевска област,2011,3958.45
+RS223,Зајечарска област,2011,2822.33
+RS224,Јабланичка област,2011,2317.39
+RS225,Нишавска област,2011,3349.36
+RS226,Пиротска област,2011,3665.91
+RS227,Подунавска област,2011,2597.49
+RS228,Пчињска област,2011,2296.78
+RS229,Топличка област,2011,2604.81
+SI031,Pomurska,2011,12466.22
+SI032,Podravska,2011,15676.99
+SI033,Koroska,2011,14544.33
+SI034,Savinjska,2011,17346.89
+SI035,Zasavska,2011,11424.46
+SI036,Posavska,2011,15582.89
+SI037,Jugovzhodna Slovenija,2011,18006.03
+SI038,Primorsko-notranjska,2011,13311.08
+SI041,Osrednjeslovenska,2011,26711.93
+SI042,Gorenjska,2011,15388.24
+SI043,Goriska,2011,17105.22
+SI044,Obalno-kraska,2011,19641.67
+HR021,Bjelovarsko-bilogorska županija,2011,7081.14
+HR022,Virovitičko-podravska županija,2011,6363.1
+HR023,Požeško-slavonska županija,2011,6408.64
+HR024,Brodsko-posavska županija,2011,5931.68
+HR025,Osječko-baranjska županija,2011,8464.49
+HR026,Vukovarsko-srijemska županija,2011,6329.24
+HR027,Karlovačka županija,2011,8005.29
+HR028,Sisačko-moslavačka županija,2011,8598.1
+HR031,Primorsko-goranska zupanija,2011,13316.9
+HR032,Licko-senjska zupanija,2011,8169.63
+HR033,Zadarska zupanija,2011,8282.38
+HR034,Sibensko-kninska zupanija,2011,8067.71
+HR035,Splitsko-dalmatinska zupanija,2011,8236.44
+HR036,Istarska zupanija,2011,13366.01
+HR037,Dubrovacko-neretvanska zupanija,2011,10079.95
+HR050,Grad Zagreb,2011,19466.49
+HR061,Međimurska županija,2011,8443.49
+HR062,Varaždinska županija,2011,8533.89
+HR063,Koprivničko-križevačka županija,2011,8215.99
+HR064,Krapinsko-zagorska županija,2011,6301.35
+HR065,Zagrebačka županija,2011,7963.18
+ME000,Crna Gora,2011,5559.93
+MK001,Vardarski,2011,3909.71
+MK002,Istocen,2011,3978.53
+MK003,Jugozapaden,2011,3093.24
+MK004,Jugoistocen,2011,4456.99
+MK005,Pelagoniski,2011,3978.96
+MK006,Poloski,2011,2022.69
+MK007,Severoistocen,2011,2588.62
+MK008,Skopski,2011,5666.78
+RS110,Београдска област,2011,8456.32
+RS121,Западнобачка област,2011,3869.3
+RS122,Јужнобанатска област,2011,4110.87
+RS123,Јужнобачка област,2011,6154.97
+RS124,Севернобанатска област,2011,4120.01
+RS125,Севернобачка област,2011,4237.21
+RS126,Средњобанатска област,2011,4617.14
+RS127,Сремска област,2011,3847.72
+RS211,Златиборска област,2011,3578.08
+RS212,Колубарска област,2011,3584.92
+RS213,Мачванска област,2011,3490.56
+RS214,Моравичка област,2011,3720.33
+RS215,Поморавска област,2011,3294.08
+RS216,Расинска област,2011,2995.87
+RS217,Рашка област,2011,2544.91
+RS218,Шумадијска област,2011,3294.94
+RS221,Борска област,2011,4803.26
+RS222,Браничевска област,2011,3958.45
+RS223,Зајечарска област,2011,2822.33
+RS224,Јабланичка област,2011,2317.39
+RS225,Нишавска област,2011,3349.36
+RS226,Пиротска област,2011,3665.91
+RS227,Подунавска област,2011,2597.49
+RS228,Пчињска област,2011,2296.78
+RS229,Топличка област,2011,2604.81
+SI031,Pomurska,2011,12466.22
+SI032,Podravska,2011,15676.99
+SI033,Koroska,2011,14544.33
+SI034,Savinjska,2011,17346.89
+SI035,Zasavska,2011,11424.46
+SI036,Posavska,2011,15582.89
+SI037,Jugovzhodna Slovenija,2011,18006.03
+SI038,Primorsko-notranjska,2011,13311.08
+SI041,Osrednjeslovenska,2011,26711.93
+SI042,Gorenjska,2011,15388.24
+SI043,Goriska,2011,17105.22
+SI044,Obalno-kraska,2011,19641.67
+KSV,Kosovo,2011,2528.0
+BIH,Brčko,2011,5601.527039
+BIH,Federacija Bosna i Hercegovina,2011,4967.692454
+BIH,Repuplika Srpska,2011,4839.324621
+HR021,Bjelovarsko-bilogorska županija,2012,6757.53
+HR022,Virovitičko-podravska županija,2012,6088.72
+HR023,Požeško-slavonska županija,2012,6085.26
+HR024,Brodsko-posavska županija,2012,5762.07
+HR025,Osječko-baranjska županija,2012,8126.21
+HR026,Vukovarsko-srijemska županija,2012,6021.96
+HR027,Karlovačka županija,2012,7752.76
+HR028,Sisačko-moslavačka županija,2012,8617.64
+HR031,Primorsko-goranska zupanija,2012,13576.23
+HR032,Licko-senjska zupanija,2012,7806.49
+HR033,Zadarska zupanija,2012,8098.55
+HR034,Sibensko-kninska zupanija,2012,7912.64
+HR035,Splitsko-dalmatinska zupanija,2012,7972.46
+HR036,Istarska zupanija,2012,12760.37
+HR037,Dubrovacko-neretvanska zupanija,2012,9972.24
+HR050,Grad Zagreb,2012,19202.13
+HR061,Međimurska županija,2012,8231.83
+HR062,Varaždinska županija,2012,8307.27
+HR063,Koprivničko-križevačka županija,2012,7972.31
+HR064,Krapinsko-zagorska županija,2012,6164.76
+HR065,Zagrebačka županija,2012,7831.54
+ME000,Crna Gora,2012,5403.96
+MK001,Vardarski,2012,4141.64
+MK002,Istocen,2012,3783.78
+MK003,Jugozapaden,2012,2991.8
+MK004,Jugoistocen,2012,4427.01
+MK005,Pelagoniski,2012,3833.67
+MK006,Poloski,2012,1884.52
+MK007,Severoistocen,2012,2581.48
+MK008,Skopski,2012,5755.99
+RS110,Београдска област,2012,8506.24
+RS121,Западнобачка област,2012,3869.76
+RS122,Јужнобанатска област,2012,4145.31
+RS123,Јужнобачка област,2012,6274.37
+RS124,Севернобанатска област,2012,4147.61
+RS125,Севернобачка област,2012,4304.09
+RS126,Средњобанатска област,2012,4642.59
+RS127,Сремска област,2012,3892.99
+RS211,Златиборска област,2012,3392.79
+RS212,Колубарска област,2012,3411.7
+RS213,Мачванска област,2012,2985.23
+RS214,Моравичка област,2012,3904.0
+RS215,Поморавска област,2012,3216.01
+RS216,Расинска област,2012,2850.71
+RS217,Рашка област,2012,2419.34
+RS218,Шумадијска област,2012,3761.81
+RS221,Борска област,2012,4715.26
+RS222,Браничевска област,2012,3759.01
+RS223,Зајечарска област,2012,2619.93
+RS224,Јабланичка област,2012,2228.97
+RS225,Нишавска област,2012,3353.63
+RS226,Пиротска област,2012,3577.06
+RS227,Подунавска област,2012,2340.37
+RS228,Пчињска област,2012,2218.32
+RS229,Топличка област,2012,2457.28
+SI031,Pomurska,2012,12252.95
+SI032,Podravska,2012,15149.33
+SI033,Koroska,2012,14472.88
+SI034,Savinjska,2012,16804.71
+SI035,Zasavska,2012,10750.77
+SI036,Posavska,2012,15158.37
+SI037,Jugovzhodna Slovenija,2012,17248.21
+SI038,Primorsko-notranjska,2012,12721.21
+SI041,Osrednjeslovenska,2012,26139.24
+SI042,Gorenjska,2012,15077.86
+SI043,Goriska,2012,16488.34
+SI044,Obalno-kraska,2012,18292.11
+HR021,Bjelovarsko-bilogorska županija,2012,6757.53
+HR022,Virovitičko-podravska županija,2012,6088.72
+HR023,Požeško-slavonska županija,2012,6085.26
+HR024,Brodsko-posavska županija,2012,5762.07
+HR025,Osječko-baranjska županija,2012,8126.21
+HR026,Vukovarsko-srijemska županija,2012,6021.96
+HR027,Karlovačka županija,2012,7752.76
+HR028,Sisačko-moslavačka županija,2012,8617.64
+HR031,Primorsko-goranska zupanija,2012,13576.23
+HR032,Licko-senjska zupanija,2012,7806.49
+HR033,Zadarska zupanija,2012,8098.55
+HR034,Sibensko-kninska zupanija,2012,7912.64
+HR035,Splitsko-dalmatinska zupanija,2012,7972.46
+HR036,Istarska zupanija,2012,12760.37
+HR037,Dubrovacko-neretvanska zupanija,2012,9972.24
+HR050,Grad Zagreb,2012,19202.13
+HR061,Međimurska županija,2012,8231.83
+HR062,Varaždinska županija,2012,8307.27
+HR063,Koprivničko-križevačka županija,2012,7972.31
+HR064,Krapinsko-zagorska županija,2012,6164.76
+HR065,Zagrebačka županija,2012,7831.54
+ME000,Crna Gora,2012,5403.96
+MK001,Vardarski,2012,4141.64
+MK002,Istocen,2012,3783.78
+MK003,Jugozapaden,2012,2991.8
+MK004,Jugoistocen,2012,4427.01
+MK005,Pelagoniski,2012,3833.67
+MK006,Poloski,2012,1884.52
+MK007,Severoistocen,2012,2581.48
+MK008,Skopski,2012,5755.99
+RS110,Београдска област,2012,8506.24
+RS121,Западнобачка област,2012,3869.76
+RS122,Јужнобанатска област,2012,4145.31
+RS123,Јужнобачка област,2012,6274.37
+RS124,Севернобанатска област,2012,4147.61
+RS125,Севернобачка област,2012,4304.09
+RS126,Средњобанатска област,2012,4642.59
+RS127,Сремска област,2012,3892.99
+RS211,Златиборска област,2012,3392.79
+RS212,Колубарска област,2012,3411.7
+RS213,Мачванска област,2012,2985.23
+RS214,Моравичка област,2012,3904.0
+RS215,Поморавска област,2012,3216.01
+RS216,Расинска област,2012,2850.71
+RS217,Рашка област,2012,2419.34
+RS218,Шумадијска област,2012,3761.81
+RS221,Борска област,2012,4715.26
+RS222,Браничевска област,2012,3759.01
+RS223,Зајечарска област,2012,2619.93
+RS224,Јабланичка област,2012,2228.97
+RS225,Нишавска област,2012,3353.63
+RS226,Пиротска област,2012,3577.06
+RS227,Подунавска област,2012,2340.37
+RS228,Пчињска област,2012,2218.32
+RS229,Топличка област,2012,2457.28
+SI031,Pomurska,2012,12252.95
+SI032,Podravska,2012,15149.33
+SI033,Koroska,2012,14472.88
+SI034,Savinjska,2012,16804.71
+SI035,Zasavska,2012,10750.77
+SI036,Posavska,2012,15158.37
+SI037,Jugovzhodna Slovenija,2012,17248.21
+SI038,Primorsko-notranjska,2012,12721.21
+SI041,Osrednjeslovenska,2012,26139.24
+SI042,Gorenjska,2012,15077.86
+SI043,Goriska,2012,16488.34
+SI044,Obalno-kraska,2012,18292.11
+KSV,Kosovo,2012,2655.0
+BIH,Brčko,2012,5165.84885
+BIH,Federacija Bosna i Hercegovina,2012,4636.925386
+BIH,Repuplika Srpska,2012,4337.702616
+HR021,Bjelovarsko-bilogorska županija,2013,6863.82
+HR022,Virovitičko-podravska županija,2013,6053.23
+HR023,Požeško-slavonska županija,2013,6191.8
+HR024,Brodsko-posavska županija,2013,5767.82
+HR025,Osječko-baranjska županija,2013,8252.76
+HR026,Vukovarsko-srijemska županija,2013,6130.65
+HR027,Karlovačka županija,2013,7938.04
+HR028,Sisačko-moslavačka županija,2013,7982.0
+HR031,Primorsko-goranska zupanija,2013,13253.69
+HR032,Licko-senjska zupanija,2013,8060.52
+HR033,Zadarska zupanija,2013,8279.5
+HR034,Sibensko-kninska zupanija,2013,8179.94
+HR035,Splitsko-dalmatinska zupanija,2013,8050.3
+HR036,Istarska zupanija,2013,12871.65
+HR037,Dubrovacko-neretvanska zupanija,2013,10362.41
+HR050,Grad Zagreb,2013,18957.44
+HR061,Međimurska županija,2013,9612.94
+HR062,Varaždinska županija,2013,8529.55
+HR063,Koprivničko-križevačka županija,2013,8096.9
+HR064,Krapinsko-zagorska županija,2013,6337.53
+HR065,Zagrebačka županija,2013,7842.58
+ME000,Crna Gora,2013,5590.22
+MK001,Vardarski,2013,4515.13
+MK002,Istocen,2013,3811.14
+MK003,Jugozapaden,2013,3002.01
+MK004,Jugoistocen,2013,4476.73
+MK005,Pelagoniski,2013,4086.01
+MK006,Poloski,2013,1993.61
+MK007,Severoistocen,2013,2544.4
+MK008,Skopski,2013,5860.51
+RS110,Београдска област,2013,8717.0
+RS121,Западнобачка област,2013,3688.29
+RS122,Јужнобанатска област,2013,4158.01
+RS123,Јужнобачка област,2013,6875.89
+RS124,Севернобанатска област,2013,3889.31
+RS125,Севернобачка област,2013,4190.75
+RS126,Средњобанатска област,2013,4626.22
+RS127,Сремска област,2013,4137.58
+RS211,Златиборска област,2013,3511.79
+RS212,Колубарска област,2013,3499.15
+RS213,Мачванска област,2013,2946.19
+RS214,Моравичка област,2013,3992.45
+RS215,Поморавска област,2013,3133.3
+RS216,Расинска област,2013,2844.75
+RS217,Рашка област,2013,2530.24
+RS218,Шумадијска област,2013,4249.67
+RS221,Борска област,2013,4512.35
+RS222,Браничевска област,2013,4178.32
+RS223,Зајечарска област,2013,2827.63
+RS224,Јабланичка област,2013,2335.65
+RS225,Нишавска област,2013,3438.29
+RS226,Пиротска област,2013,4025.71
+RS227,Подунавска област,2013,2273.17
+RS228,Пчињска област,2013,2169.66
+RS229,Топличка област,2013,2822.37
+SI031,Pomurska,2013,12285.47
+SI032,Podravska,2013,14862.77
+SI033,Koroska,2013,14380.21
+SI034,Savinjska,2013,16446.21
+SI035,Zasavska,2013,10621.79
+SI036,Posavska,2013,15061.83
+SI037,Jugovzhodna Slovenija,2013,17130.34
+SI038,Primorsko-notranjska,2013,12818.8
+SI041,Osrednjeslovenska,2013,25658.77
+SI042,Gorenjska,2013,15422.86
+SI043,Goriska,2013,16298.72
+SI044,Obalno-kraska,2013,17618.11
+HR021,Bjelovarsko-bilogorska županija,2013,6863.82
+HR022,Virovitičko-podravska županija,2013,6053.23
+HR023,Požeško-slavonska županija,2013,6191.8
+HR024,Brodsko-posavska županija,2013,5767.82
+HR025,Osječko-baranjska županija,2013,8252.76
+HR026,Vukovarsko-srijemska županija,2013,6130.65
+HR027,Karlovačka županija,2013,7938.04
+HR028,Sisačko-moslavačka županija,2013,7982.0
+HR031,Primorsko-goranska zupanija,2013,13253.69
+HR032,Licko-senjska zupanija,2013,8060.52
+HR033,Zadarska zupanija,2013,8279.5
+HR034,Sibensko-kninska zupanija,2013,8179.94
+HR035,Splitsko-dalmatinska zupanija,2013,8050.3
+HR036,Istarska zupanija,2013,12871.65
+HR037,Dubrovacko-neretvanska zupanija,2013,10362.41
+HR050,Grad Zagreb,2013,18957.44
+HR061,Međimurska županija,2013,9612.94
+HR062,Varaždinska županija,2013,8529.55
+HR063,Koprivničko-križevačka županija,2013,8096.9
+HR064,Krapinsko-zagorska županija,2013,6337.53
+HR065,Zagrebačka županija,2013,7842.58
+ME000,Crna Gora,2013,5590.22
+MK001,Vardarski,2013,4515.13
+MK002,Istocen,2013,3811.14
+MK003,Jugozapaden,2013,3002.01
+MK004,Jugoistocen,2013,4476.73
+MK005,Pelagoniski,2013,4086.01
+MK006,Poloski,2013,1993.61
+MK007,Severoistocen,2013,2544.4
+MK008,Skopski,2013,5860.51
+RS110,Београдска област,2013,8717.0
+RS121,Западнобачка област,2013,3688.29
+RS122,Јужнобанатска област,2013,4158.01
+RS123,Јужнобачка област,2013,6875.89
+RS124,Севернобанатска област,2013,3889.31
+RS125,Севернобачка област,2013,4190.75
+RS126,Средњобанатска област,2013,4626.22
+RS127,Сремска област,2013,4137.58
+RS211,Златиборска област,2013,3511.79
+RS212,Колубарска област,2013,3499.15
+RS213,Мачванска област,2013,2946.19
+RS214,Моравичка област,2013,3992.45
+RS215,Поморавска област,2013,3133.3
+RS216,Расинска област,2013,2844.75
+RS217,Рашка област,2013,2530.24
+RS218,Шумадијска област,2013,4249.67
+RS221,Борска област,2013,4512.35
+RS222,Браничевска област,2013,4178.32
+RS223,Зајечарска област,2013,2827.63
+RS224,Јабланичка област,2013,2335.65
+RS225,Нишавска област,2013,3438.29
+RS226,Пиротска област,2013,4025.71
+RS227,Подунавска област,2013,2273.17
+RS228,Пчињска област,2013,2169.66
+RS229,Топличка област,2013,2822.37
+SI031,Pomurska,2013,12285.47
+SI032,Podravska,2013,14862.77
+SI033,Koroska,2013,14380.21
+SI034,Savinjska,2013,16446.21
+SI035,Zasavska,2013,10621.79
+SI036,Posavska,2013,15061.83
+SI037,Jugovzhodna Slovenija,2013,17130.34
+SI038,Primorsko-notranjska,2013,12818.8
+SI041,Osrednjeslovenska,2013,25658.77
+SI042,Gorenjska,2013,15422.86
+SI043,Goriska,2013,16298.72
+SI044,Obalno-kraska,2013,17618.11
+KSV,Kosovo,2013,2794.0
+BIH,Brčko,2013,5448.78271
+BIH,Federacija Bosna i Hercegovina,2013,4845.868695
+BIH,Repuplika Srpska,2013,4481.956638
+HR021,Bjelovarsko-bilogorska županija,2014,6976.97
+HR022,Virovitičko-podravska županija,2014,5655.09
+HR023,Požeško-slavonska županija,2014,5922.62
+HR024,Brodsko-posavska županija,2014,5668.86
+HR025,Osječko-baranjska županija,2014,8184.19
+HR026,Vukovarsko-srijemska županija,2014,5984.94
+HR027,Karlovačka županija,2014,7873.46
+HR028,Sisačko-moslavačka županija,2014,7668.54
+HR031,Primorsko-goranska zupanija,2014,13409.78
+HR032,Licko-senjska zupanija,2014,8027.18
+HR033,Zadarska zupanija,2014,8416.6
+HR034,Sibensko-kninska zupanija,2014,8283.22
+HR035,Splitsko-dalmatinska zupanija,2014,8132.46
+HR036,Istarska zupanija,2014,13185.12
+HR037,Dubrovacko-neretvanska zupanija,2014,10650.71
+HR050,Grad Zagreb,2014,19064.9
+HR061,Međimurska županija,2014,8627.07
+HR062,Varaždinska županija,2014,8634.85
+HR063,Koprivničko-križevačka županija,2014,8139.32
+HR064,Krapinsko-zagorska županija,2014,6575.46
+HR065,Zagrebačka županija,2014,7967.1
+ME000,Crna Gora,2014,5684.53
+MK001,Vardarski,2014,4543.47
+MK002,Istocen,2014,4044.01
+MK003,Jugozapaden,2014,3131.08
+MK004,Jugoistocen,2014,5036.14
+MK005,Pelagoniski,2014,4172.38
+MK006,Poloski,2014,1942.37
+MK007,Severoistocen,2014,2463.67
+MK008,Skopski,2014,6068.35
+RS110,Београдска област,2014,8194.36
+RS121,Западнобачка област,2014,3664.26
+RS122,Јужнобанатска област,2014,4273.91
+RS123,Јужнобачка област,2014,6735.95
+RS124,Севернобанатска област,2014,3896.18
+RS125,Севернобачка област,2014,4375.71
+RS126,Средњобанатска област,2014,4671.43
+RS127,Сремска област,2014,4248.8
+RS211,Златиборска област,2014,3728.88
+RS212,Колубарска област,2014,3748.38
+RS213,Мачванска област,2014,3133.3
+RS214,Моравичка област,2014,4151.37
+RS215,Поморавска област,2014,3412.88
+RS216,Расинска област,2014,2840.97
+RS217,Рашка област,2014,2523.7
+RS218,Шумадијска област,2014,4625.49
+RS221,Борска област,2014,4134.49
+RS222,Браничевска област,2014,4000.68
+RS223,Зајечарска област,2014,3134.03
+RS224,Јабланичка област,2014,2420.72
+RS225,Нишавска област,2014,3550.32
+RS226,Пиротска област,2014,3983.63
+RS227,Подунавска област,2014,2178.22
+RS228,Пчињска област,2014,2167.17
+RS229,Топличка област,2014,2752.23
+SI031,Pomurska,2014,12637.16
+SI032,Podravska,2014,15410.45
+SI033,Koroska,2014,14805.32
+SI034,Savinjska,2014,16871.83
+SI035,Zasavska,2014,10480.72
+SI036,Posavska,2014,15448.54
+SI037,Jugovzhodna Slovenija,2014,17555.71
+SI038,Primorsko-notranjska,2014,13343.49
+SI041,Osrednjeslovenska,2014,26175.08
+SI042,Gorenjska,2014,16170.86
+SI043,Goriska,2014,16694.55
+SI044,Obalno-kraska,2014,17973.21
+HR021,Bjelovarsko-bilogorska županija,2014,6976.97
+HR022,Virovitičko-podravska županija,2014,5655.09
+HR023,Požeško-slavonska županija,2014,5922.62
+HR024,Brodsko-posavska županija,2014,5668.86
+HR025,Osječko-baranjska županija,2014,8184.19
+HR026,Vukovarsko-srijemska županija,2014,5984.94
+HR027,Karlovačka županija,2014,7873.46
+HR028,Sisačko-moslavačka županija,2014,7668.54
+HR031,Primorsko-goranska zupanija,2014,13409.78
+HR032,Licko-senjska zupanija,2014,8027.18
+HR033,Zadarska zupanija,2014,8416.6
+HR034,Sibensko-kninska zupanija,2014,8283.22
+HR035,Splitsko-dalmatinska zupanija,2014,8132.46
+HR036,Istarska zupanija,2014,13185.12
+HR037,Dubrovacko-neretvanska zupanija,2014,10650.71
+HR050,Grad Zagreb,2014,19064.9
+HR061,Međimurska županija,2014,8627.07
+HR062,Varaždinska županija,2014,8634.85
+HR063,Koprivničko-križevačka županija,2014,8139.32
+HR064,Krapinsko-zagorska županija,2014,6575.46
+HR065,Zagrebačka županija,2014,7967.1
+ME000,Crna Gora,2014,5684.53
+MK001,Vardarski,2014,4543.47
+MK002,Istocen,2014,4044.01
+MK003,Jugozapaden,2014,3131.08
+MK004,Jugoistocen,2014,5036.14
+MK005,Pelagoniski,2014,4172.38
+MK006,Poloski,2014,1942.37
+MK007,Severoistocen,2014,2463.67
+MK008,Skopski,2014,6068.35
+RS110,Београдска област,2014,8194.36
+RS121,Западнобачка област,2014,3664.26
+RS122,Јужнобанатска област,2014,4273.91
+RS123,Јужнобачка област,2014,6735.95
+RS124,Севернобанатска област,2014,3896.18
+RS125,Севернобачка област,2014,4375.71
+RS126,Средњобанатска област,2014,4671.43
+RS127,Сремска област,2014,4248.8
+RS211,Златиборска област,2014,3728.88
+RS212,Колубарска област,2014,3748.38
+RS213,Мачванска област,2014,3133.3
+RS214,Моравичка област,2014,4151.37
+RS215,Поморавска област,2014,3412.88
+RS216,Расинска област,2014,2840.97
+RS217,Рашка област,2014,2523.7
+RS218,Шумадијска област,2014,4625.49
+RS221,Борска област,2014,4134.49
+RS222,Браничевска област,2014,4000.68
+RS223,Зајечарска област,2014,3134.03
+RS224,Јабланичка област,2014,2420.72
+RS225,Нишавска област,2014,3550.32
+RS226,Пиротска област,2014,3983.63
+RS227,Подунавска област,2014,2178.22
+RS228,Пчињска област,2014,2167.17
+RS229,Топличка област,2014,2752.23
+SI031,Pomurska,2014,12637.16
+SI032,Podravska,2014,15410.45
+SI033,Koroska,2014,14805.32
+SI034,Savinjska,2014,16871.83
+SI035,Zasavska,2014,10480.72
+SI036,Posavska,2014,15448.54
+SI037,Jugovzhodna Slovenija,2014,17555.71
+SI038,Primorsko-notranjska,2014,13343.49
+SI041,Osrednjeslovenska,2014,26175.08
+SI042,Gorenjska,2014,16170.86
+SI043,Goriska,2014,16694.55
+SI044,Obalno-kraska,2014,17973.21
+KSV,Kosovo,2014,2950.0
+BIH,Brčko,2014,5782.729227
+BIH,Federacija Bosna i Hercegovina,2014,5039.151243
+BIH,Repuplika Srpska,2014,4432.981661
+HR021,Bjelovarsko-bilogorska županija,2015,7266.14
+HR022,Virovitičko-podravska županija,2015,5807.92
+HR023,Požeško-slavonska županija,2015,6093.24
+HR024,Brodsko-posavska županija,2015,5924.52
+HR025,Osječko-baranjska županija,2015,8492.03
+HR026,Vukovarsko-srijemska županija,2015,6297.72
+HR027,Karlovačka županija,2015,8192.61
+HR028,Sisačko-moslavačka županija,2015,8123.23
+HR031,Primorsko-goranska zupanija,2015,13531.37
+HR032,Licko-senjska zupanija,2015,8372.45
+HR033,Zadarska zupanija,2015,8778.08
+HR034,Sibensko-kninska zupanija,2015,8469.27
+HR035,Splitsko-dalmatinska zupanija,2015,8467.5
+HR036,Istarska zupanija,2015,13653.95
+HR037,Dubrovacko-neretvanska zupanija,2015,11153.34
+HR050,Grad Zagreb,2015,19664.24
+HR061,Međimurska županija,2015,8859.98
+HR062,Varaždinska županija,2015,8948.06
+HR063,Koprivničko-križevačka županija,2015,8314.38
+HR064,Krapinsko-zagorska županija,2015,6846.49
+HR065,Zagrebačka županija,2015,8292.09
+ME000,Crna Gora,2015,5873.89
+MK001,Vardarski,2015,4731.8
+MK002,Istocen,2015,4117.04
+MK003,Jugozapaden,2015,3456.02
+MK004,Jugoistocen,2015,5125.4
+MK005,Pelagoniski,2015,4234.16
+MK006,Poloski,2015,1977.95
+MK007,Severoistocen,2015,2665.43
+MK008,Skopski,2015,6280.0
+RS110,Београдска област,2015,8474.14
+RS121,Западнобачка област,2015,3985.31
+RS122,Јужнобанатска област,2015,4255.51
+RS123,Јужнобачка област,2015,6410.42
+RS124,Севернобанатска област,2015,4156.86
+RS125,Севернобачка област,2015,4621.4
+RS126,Средњобанатска област,2015,4618.26
+RS127,Сремска област,2015,4419.06
+RS211,Златиборска област,2015,3881.83
+RS212,Колубарска област,2015,3972.9
+RS213,Мачванска област,2015,3207.25
+RS214,Моравичка област,2015,4258.13
+RS215,Поморавска област,2015,3239.38
+RS216,Расинска област,2015,3075.23
+RS217,Рашка област,2015,2614.42
+RS218,Шумадијска област,2015,4719.23
+RS221,Борска област,2015,4042.07
+RS222,Браничевска област,2015,4085.43
+RS223,Зајечарска област,2015,3127.38
+RS224,Јабланичка област,2015,2492.05
+RS225,Нишавска област,2015,3530.93
+RS226,Пиротска област,2015,4580.02
+RS227,Подунавска област,2015,2127.2
+RS228,Пчињска област,2015,2340.81
+RS229,Топличка област,2015,2862.37
+SI031,Pomurska,2015,12666.38
+SI032,Podravska,2015,15549.32
+SI033,Koroska,2015,15317.98
+SI034,Savinjska,2015,17405.81
+SI035,Zasavska,2015,10213.65
+SI036,Posavska,2015,15792.18
+SI037,Jugovzhodna Slovenija,2015,17947.6
+SI038,Primorsko-notranjska,2015,14050.61
+SI041,Osrednjeslovenska,2015,26540.16
+SI042,Gorenjska,2015,16630.06
+SI043,Goriska,2015,17276.03
+SI044,Obalno-kraska,2015,18795.93
+HR021,Bjelovarsko-bilogorska županija,2015,7266.14
+HR022,Virovitičko-podravska županija,2015,5807.92
+HR023,Požeško-slavonska županija,2015,6093.24
+HR024,Brodsko-posavska županija,2015,5924.52
+HR025,Osječko-baranjska županija,2015,8492.03
+HR026,Vukovarsko-srijemska županija,2015,6297.72
+HR027,Karlovačka županija,2015,8192.61
+HR028,Sisačko-moslavačka županija,2015,8123.23
+HR031,Primorsko-goranska zupanija,2015,13531.37
+HR032,Licko-senjska zupanija,2015,8372.45
+HR033,Zadarska zupanija,2015,8778.08
+HR034,Sibensko-kninska zupanija,2015,8469.27
+HR035,Splitsko-dalmatinska zupanija,2015,8467.5
+HR036,Istarska zupanija,2015,13653.95
+HR037,Dubrovacko-neretvanska zupanija,2015,11153.34
+HR050,Grad Zagreb,2015,19664.24
+HR061,Međimurska županija,2015,8859.98
+HR062,Varaždinska županija,2015,8948.06
+HR063,Koprivničko-križevačka županija,2015,8314.38
+HR064,Krapinsko-zagorska županija,2015,6846.49
+HR065,Zagrebačka županija,2015,8292.09
+ME000,Crna Gora,2015,5873.89
+MK001,Vardarski,2015,4731.8
+MK002,Istocen,2015,4117.04
+MK003,Jugozapaden,2015,3456.02
+MK004,Jugoistocen,2015,5125.4
+MK005,Pelagoniski,2015,4234.16
+MK006,Poloski,2015,1977.95
+MK007,Severoistocen,2015,2665.43
+MK008,Skopski,2015,6280.0
+RS110,Београдска област,2015,8474.14
+RS121,Западнобачка област,2015,3985.31
+RS122,Јужнобанатска област,2015,4255.51
+RS123,Јужнобачка област,2015,6410.42
+RS124,Севернобанатска област,2015,4156.86
+RS125,Севернобачка област,2015,4621.4
+RS126,Средњобанатска област,2015,4618.26
+RS127,Сремска област,2015,4419.06
+RS211,Златиборска област,2015,3881.83
+RS212,Колубарска област,2015,3972.9
+RS213,Мачванска област,2015,3207.25
+RS214,Моравичка област,2015,4258.13
+RS215,Поморавска област,2015,3239.38
+RS216,Расинска област,2015,3075.23
+RS217,Рашка област,2015,2614.42
+RS218,Шумадијска област,2015,4719.23
+RS221,Борска област,2015,4042.07
+RS222,Браничевска област,2015,4085.43
+RS223,Зајечарска област,2015,3127.38
+RS224,Јабланичка област,2015,2492.05
+RS225,Нишавска област,2015,3530.93
+RS226,Пиротска област,2015,4580.02
+RS227,Подунавска област,2015,2127.2
+RS228,Пчињска област,2015,2340.81
+RS229,Топличка област,2015,2862.37
+SI031,Pomurska,2015,12666.38
+SI032,Podravska,2015,15549.32
+SI033,Koroska,2015,15317.98
+SI034,Savinjska,2015,17405.81
+SI035,Zasavska,2015,10213.65
+SI036,Posavska,2015,15792.18
+SI037,Jugovzhodna Slovenija,2015,17947.6
+SI038,Primorsko-notranjska,2015,14050.61
+SI041,Osrednjeslovenska,2015,26540.16
+SI042,Gorenjska,2015,16630.06
+SI043,Goriska,2015,17276.03
+SI044,Obalno-kraska,2015,18795.93
+KSV,Kosovo,2015,3202.0
+BIH,Brčko,2015,5199.874703
+BIH,Federacija Bosna i Hercegovina,2015,4373.491738
+BIH,Repuplika Srpska,2015,3758.206329
+HR021,Bjelovarsko-bilogorska županija,2016,7757.53
+HR022,Virovitičko-podravska županija,2016,6183.24
+HR023,Požeško-slavonska županija,2016,6372.31
+HR024,Brodsko-posavska županija,2016,6267.16
+HR025,Osječko-baranjska županija,2016,8949.46
+HR026,Vukovarsko-srijemska županija,2016,6672.06
+HR027,Karlovačka županija,2016,8638.84
+HR028,Sisačko-moslavačka županija,2016,8095.1
+HR031,Primorsko-goranska zupanija,2016,13933.77
+HR032,Licko-senjska zupanija,2016,8747.8
+HR033,Zadarska zupanija,2016,9244.35
+HR034,Sibensko-kninska zupanija,2016,8886.51
+HR035,Splitsko-dalmatinska zupanija,2016,8897.64
+HR036,Istarska zupanija,2016,14612.5
+HR037,Dubrovacko-neretvanska zupanija,2016,11853.98
+HR050,Grad Zagreb,2016,20398.15
+HR061,Međimurska županija,2016,9393.64
+HR062,Varaždinska županija,2016,9559.86
+HR063,Koprivničko-križevačka županija,2016,8790.89
+HR064,Krapinsko-zagorska županija,2016,7362.12
+HR065,Zagrebačka županija,2016,8622.62
+ME000,Crna Gora,2016,6045.8
+MK001,Vardarski,2016,4741.98
+MK002,Istocen,2016,4173.44
+MK003,Jugozapaden,2016,3484.94
+MK004,Jugoistocen,2016,5364.28
+MK005,Pelagoniski,2016,4430.17
+MK006,Poloski,2016,2079.63
+MK007,Severoistocen,2016,2640.93
+MK008,Skopski,2016,6457.08
+RS110,Београдска област,2016,8805.91
+RS121,Западнобачка област,2016,4072.78
+RS122,Јужнобанатска област,2016,4668.47
+RS123,Јужнобачка област,2016,6632.51
+RS124,Севернобанатска област,2016,4206.31
+RS125,Севернобачка област,2016,4869.71
+RS126,Средњобанатска област,2016,4637.66
+RS127,Сремска област,2016,4690.67
+RS211,Златиборска област,2016,4174.62
+RS212,Колубарска област,2016,4004.8
+RS213,Мачванска област,2016,3244.37
+RS214,Моравичка област,2016,4476.94
+RS215,Поморавска област,2016,3261.73
+RS216,Расинска област,2016,3136.57
+RS217,Рашка област,2016,2652.5
+RS218,Шумадијска област,2016,4643.34
+RS221,Борска област,2016,4289.02
+RS222,Браничевска област,2016,4185.02
+RS223,Зајечарска област,2016,3050.27
+RS224,Јабланичка област,2016,2603.21
+RS225,Нишавска област,2016,3773.43
+RS226,Пиротска област,2016,4661.0
+RS227,Подунавска област,2016,2235.54
+RS228,Пчињска област,2016,2335.25
+RS229,Топличка област,2016,2994.32
+SI031,Pomurska,2016,13214.78
+SI032,Podravska,2016,15893.37
+SI033,Koroska,2016,15764.57
+SI034,Savinjska,2016,17852.24
+SI035,Zasavska,2016,10391.44
+SI036,Posavska,2016,16254.13
+SI037,Jugovzhodna Slovenija,2016,18316.05
+SI038,Primorsko-notranjska,2016,14547.53
+SI041,Osrednjeslovenska,2016,27465.8
+SI042,Gorenjska,2016,17039.13
+SI043,Goriska,2016,17898.26
+SI044,Obalno-kraska,2016,19366.66
+HR021,Bjelovarsko-bilogorska županija,2016,7757.53
+HR022,Virovitičko-podravska županija,2016,6183.24
+HR023,Požeško-slavonska županija,2016,6372.31
+HR024,Brodsko-posavska županija,2016,6267.16
+HR025,Osječko-baranjska županija,2016,8949.46
+HR026,Vukovarsko-srijemska županija,2016,6672.06
+HR027,Karlovačka županija,2016,8638.84
+HR028,Sisačko-moslavačka županija,2016,8095.1
+HR031,Primorsko-goranska zupanija,2016,13933.77
+HR032,Licko-senjska zupanija,2016,8747.8
+HR033,Zadarska zupanija,2016,9244.35
+HR034,Sibensko-kninska zupanija,2016,8886.51
+HR035,Splitsko-dalmatinska zupanija,2016,8897.64
+HR036,Istarska zupanija,2016,14612.5
+HR037,Dubrovacko-neretvanska zupanija,2016,11853.98
+HR050,Grad Zagreb,2016,20398.15
+HR061,Međimurska županija,2016,9393.64
+HR062,Varaždinska županija,2016,9559.86
+HR063,Koprivničko-križevačka županija,2016,8790.89
+HR064,Krapinsko-zagorska županija,2016,7362.12
+HR065,Zagrebačka županija,2016,8622.62
+ME000,Crna Gora,2016,6045.8
+MK001,Vardarski,2016,4741.98
+MK002,Istocen,2016,4173.44
+MK003,Jugozapaden,2016,3484.94
+MK004,Jugoistocen,2016,5364.28
+MK005,Pelagoniski,2016,4430.17
+MK006,Poloski,2016,2079.63
+MK007,Severoistocen,2016,2640.93
+MK008,Skopski,2016,6457.08
+RS110,Београдска област,2016,8805.91
+RS121,Западнобачка област,2016,4072.78
+RS122,Јужнобанатска област,2016,4668.47
+RS123,Јужнобачка област,2016,6632.51
+RS124,Севернобанатска област,2016,4206.31
+RS125,Севернобачка област,2016,4869.71
+RS126,Средњобанатска област,2016,4637.66
+RS127,Сремска област,2016,4690.67
+RS211,Златиборска област,2016,4174.62
+RS212,Колубарска област,2016,4004.8
+RS213,Мачванска област,2016,3244.37
+RS214,Моравичка област,2016,4476.94
+RS215,Поморавска област,2016,3261.73
+RS216,Расинска област,2016,3136.57
+RS217,Рашка област,2016,2652.5
+RS218,Шумадијска област,2016,4643.34
+RS221,Борска област,2016,4289.02
+RS222,Браничевска област,2016,4185.02
+RS223,Зајечарска област,2016,3050.27
+RS224,Јабланичка област,2016,2603.21
+RS225,Нишавска област,2016,3773.43
+RS226,Пиротска област,2016,4661.0
+RS227,Подунавска област,2016,2235.54
+RS228,Пчињска област,2016,2335.25
+RS229,Топличка област,2016,2994.32
+SI031,Pomurska,2016,13214.78
+SI032,Podravska,2016,15893.37
+SI033,Koroska,2016,15764.57
+SI034,Savinjska,2016,17852.24
+SI035,Zasavska,2016,10391.44
+SI036,Posavska,2016,16254.13
+SI037,Jugovzhodna Slovenija,2016,18316.05
+SI038,Primorsko-notranjska,2016,14547.53
+SI041,Osrednjeslovenska,2016,27465.8
+SI042,Gorenjska,2016,17039.13
+SI043,Goriska,2016,17898.26
+SI044,Obalno-kraska,2016,19366.66
+KSV,Kosovo,2016,3368.0
+BIH,Brčko,2016,5010.932936
+BIH,Federacija Bosna i Hercegovina,2016,5012.892526
+BIH,Repuplika Srpska,2016,4705.740461
+HR021,Bjelovarsko-bilogorska županija,2017,7928.5
+HR022,Virovitičko-podravska županija,2017,6437.43
+HR023,Požeško-slavonska županija,2017,6636.57
+HR024,Brodsko-posavska županija,2017,6703.66
+HR025,Osječko-baranjska županija,2017,9133.35
+HR026,Vukovarsko-srijemska županija,2017,7070.82
+HR027,Karlovačka županija,2017,8831.59
+HR028,Sisačko-moslavačka županija,2017,8312.46
+HR031,Primorsko-goranska zupanija,2017,14533.91
+HR032,Licko-senjska zupanija,2017,9267.37
+HR033,Zadarska zupanija,2017,9972.69
+HR034,Sibensko-kninska zupanija,2017,9626.6
+HR035,Splitsko-dalmatinska zupanija,2017,9255.64
+HR036,Istarska zupanija,2017,15100.93
+HR037,Dubrovacko-neretvanska zupanija,2017,12775.1
+HR050,Grad Zagreb,2017,21272.87
+HR061,Međimurska županija,2017,9908.06
+HR062,Varaždinska županija,2017,10222.38
+HR063,Koprivničko-križevačka županija,2017,9083.38
+HR064,Krapinsko-zagorska županija,2017,7820.92
+HR065,Zagrebačka županija,2017,9195.11
+ME000,Crna Gora,2017,6330.16
+MK001,Vardarski,2017,4707.1
+MK002,Istocen,2017,4431.11
+MK003,Jugozapaden,2017,3645.56
+MK004,Jugoistocen,2017,5339.9
+MK005,Pelagoniski,2017,4411.67
+MK006,Poloski,2017,2147.01
+MK007,Severoistocen,2017,2660.45
+MK008,Skopski,2017,6448.62
+RS110,Београдска област,2017,9022.66
+RS121,Западнобачка област,2017,4258.96
+RS122,Јужнобанатска област,2017,4763.46
+RS123,Јужнобачка област,2017,6650.04
+RS124,Севернобанатска област,2017,4274.02
+RS125,Севернобачка област,2017,4924.9
+RS126,Средњобанатска област,2017,4639.41
+RS127,Сремска област,2017,5043.72
+RS211,Златиборска област,2017,4212.41
+RS212,Колубарска област,2017,4125.98
+RS213,Мачванска област,2017,3363.49
+RS214,Моравичка област,2017,4786.42
+RS215,Поморавска област,2017,3274.27
+RS216,Расинска област,2017,3238.39
+RS217,Рашка област,2017,2744.89
+RS218,Шумадијска област,2017,4461.68
+RS221,Борска област,2017,4933.81
+RS222,Браничевска област,2017,4152.52
+RS223,Зајечарска област,2017,2975.46
+RS224,Јабланичка област,2017,2663.22
+RS225,Нишавска област,2017,3921.9
+RS226,Пиротска област,2017,4760.35
+RS227,Подунавска област,2017,2524.19
+RS228,Пчињска област,2017,2444.76
+RS229,Топличка област,2017,3118.77
+SI031,Pomurska,2017,13774.29
+SI032,Podravska,2017,16488.69
+SI033,Koroska,2017,16326.79
+SI034,Savinjska,2017,18658.46
+SI035,Zasavska,2017,10716.16
+SI036,Posavska,2017,16928.79
+SI037,Jugovzhodna Slovenija,2017,19868.27
+SI038,Primorsko-notranjska,2017,14773.51
+SI041,Osrednjeslovenska,2017,28538.29
+SI042,Gorenjska,2017,18139.15
+SI043,Goriska,2017,18756.05
+SI044,Obalno-kraska,2017,20784.31
+HR021,Bjelovarsko-bilogorska županija,2017,7928.5
+HR022,Virovitičko-podravska županija,2017,6437.43
+HR023,Požeško-slavonska županija,2017,6636.57
+HR024,Brodsko-posavska županija,2017,6703.66
+HR025,Osječko-baranjska županija,2017,9133.35
+HR026,Vukovarsko-srijemska županija,2017,7070.82
+HR027,Karlovačka županija,2017,8831.59
+HR028,Sisačko-moslavačka županija,2017,8312.46
+HR031,Primorsko-goranska zupanija,2017,14533.91
+HR032,Licko-senjska zupanija,2017,9267.37
+HR033,Zadarska zupanija,2017,9972.69
+HR034,Sibensko-kninska zupanija,2017,9626.6
+HR035,Splitsko-dalmatinska zupanija,2017,9255.64
+HR036,Istarska zupanija,2017,15100.93
+HR037,Dubrovacko-neretvanska zupanija,2017,12775.1
+HR050,Grad Zagreb,2017,21272.87
+HR061,Međimurska županija,2017,9908.06
+HR062,Varaždinska županija,2017,10222.38
+HR063,Koprivničko-križevačka županija,2017,9083.38
+HR064,Krapinsko-zagorska županija,2017,7820.92
+HR065,Zagrebačka županija,2017,9195.11
+ME000,Crna Gora,2017,6330.16
+MK001,Vardarski,2017,4707.1
+MK002,Istocen,2017,4431.11
+MK003,Jugozapaden,2017,3645.56
+MK004,Jugoistocen,2017,5339.9
+MK005,Pelagoniski,2017,4411.67
+MK006,Poloski,2017,2147.01
+MK007,Severoistocen,2017,2660.45
+MK008,Skopski,2017,6448.62
+RS110,Београдска област,2017,9022.66
+RS121,Западнобачка област,2017,4258.96
+RS122,Јужнобанатска област,2017,4763.46
+RS123,Јужнобачка област,2017,6650.04
+RS124,Севернобанатска област,2017,4274.02
+RS125,Севернобачка област,2017,4924.9
+RS126,Средњобанатска област,2017,4639.41
+RS127,Сремска област,2017,5043.72
+RS211,Златиборска област,2017,4212.41
+RS212,Колубарска област,2017,4125.98
+RS213,Мачванска област,2017,3363.49
+RS214,Моравичка област,2017,4786.42
+RS215,Поморавска област,2017,3274.27
+RS216,Расинска област,2017,3238.39
+RS217,Рашка област,2017,2744.89
+RS218,Шумадијска област,2017,4461.68
+RS221,Борска област,2017,4933.81
+RS222,Браничевска област,2017,4152.52
+RS223,Зајечарска област,2017,2975.46
+RS224,Јабланичка област,2017,2663.22
+RS225,Нишавска област,2017,3921.9
+RS226,Пиротска област,2017,4760.35
+RS227,Подунавска област,2017,2524.19
+RS228,Пчињска област,2017,2444.76
+RS229,Топличка област,2017,3118.77
+SI031,Pomurska,2017,13774.29
+SI032,Podravska,2017,16488.69
+SI033,Koroska,2017,16326.79
+SI034,Savinjska,2017,18658.46
+SI035,Zasavska,2017,10716.16
+SI036,Posavska,2017,16928.79
+SI037,Jugovzhodna Slovenija,2017,19868.27
+SI038,Primorsko-notranjska,2017,14773.51
+SI041,Osrednjeslovenska,2017,28538.29
+SI042,Gorenjska,2017,18139.15
+SI043,Goriska,2017,18756.05
+SI044,Obalno-kraska,2017,20784.31
+KSV,Kosovo,2017,3534.0
+BIH,Brčko,2017,5299.892458
+BIH,Federacija Bosna i Hercegovina,2017,5378.878098
+BIH,Repuplika Srpska,2017,5036.255896
+HR021,Bjelovarsko-bilogorska županija,2018,8450.22
+HR022,Virovitičko-podravska županija,2018,6996.8
+HR023,Požeško-slavonska županija,2018,7202.67
+HR024,Brodsko-posavska županija,2018,7168.33
+HR025,Osječko-baranjska županija,2018,9263.39
+HR026,Vukovarsko-srijemska županija,2018,7606.28
+HR027,Karlovačka županija,2018,8787.57
+HR028,Sisačko-moslavačka županija,2018,8723.22
+HR031,Primorsko-goranska zupanija,2018,14817.62
+HR032,Licko-senjska zupanija,2018,9510.4
+HR033,Zadarska zupanija,2018,10636.53
+HR034,Sibensko-kninska zupanija,2018,9997.39
+HR035,Splitsko-dalmatinska zupanija,2018,9522.3
+HR036,Istarska zupanija,2018,15219.97
+HR037,Dubrovacko-neretvanska zupanija,2018,13011.67
+HR050,Grad Zagreb,2018,22175.28
+HR061,Međimurska županija,2018,10331.2
+HR062,Varaždinska županija,2018,11161.78
+HR063,Koprivničko-križevačka županija,2018,9084.71
+HR064,Krapinsko-zagorska županija,2018,8100.35
+HR065,Zagrebačka županija,2018,9801.92
+ME000,Crna Gora,2018,6653.17
+MK001,Vardarski,2018,4889.11
+MK002,Istocen,2018,4566.15
+MK003,Jugozapaden,2018,3684.21
+MK004,Jugoistocen,2018,5243.39
+MK005,Pelagoniski,2018,4753.52
+MK006,Poloski,2018,2184.76
+MK007,Severoistocen,2018,2704.51
+MK008,Skopski,2018,6636.81
+RS110,Београдска област,2018,9603.95
+RS121,Западнобачка област,2018,4096.11
+RS122,Јужнобанатска област,2018,5117.07
+RS123,Јужнобачка област,2018,6710.34
+RS124,Севернобанатска област,2018,4416.51
+RS125,Севернобачка област,2018,5035.68
+RS126,Средњобанатска област,2018,5009.57
+RS127,Сремска област,2018,5306.98
+RS211,Златиборска област,2018,4217.0
+RS212,Колубарска област,2018,4132.96
+RS213,Мачванска област,2018,3435.73
+RS214,Моравичка област,2018,4887.37
+RS215,Поморавска област,2018,3375.56
+RS216,Расинска област,2018,3398.9
+RS217,Рашка област,2018,2952.65
+RS218,Шумадијска област,2018,4356.73
+RS221,Борска област,2018,5386.73
+RS222,Браничевска област,2018,4720.1
+RS223,Зајечарска област,2018,3170.44
+RS224,Јабланичка област,2018,2657.94
+RS225,Нишавска област,2018,4148.43
+RS226,Пиротска област,2018,5018.27
+RS227,Подунавска област,2018,3025.67
+RS228,Пчињска област,2018,2602.51
+RS229,Топличка област,2018,3306.82
+SI031,Pomurska,2018,14380.83
+SI032,Podravska,2018,17077.76
+SI033,Koroska,2018,17192.59
+SI034,Savinjska,2018,19170.51
+SI035,Zasavska,2018,11087.57
+SI036,Posavska,2018,17603.66
+SI037,Jugovzhodna Slovenija,2018,20794.37
+SI038,Primorsko-notranjska,2018,15234.91
+SI041,Osrednjeslovenska,2018,29796.84
+SI042,Gorenjska,2018,18996.86
+SI043,Goriska,2018,19152.05
+SI044,Obalno-kraska,2018,21687.54
+HR021,Bjelovarsko-bilogorska županija,2018,8450.22
+HR022,Virovitičko-podravska županija,2018,6996.8
+HR023,Požeško-slavonska županija,2018,7202.67
+HR024,Brodsko-posavska županija,2018,7168.33
+HR025,Osječko-baranjska županija,2018,9263.39
+HR026,Vukovarsko-srijemska županija,2018,7606.28
+HR027,Karlovačka županija,2018,8787.57
+HR028,Sisačko-moslavačka županija,2018,8723.22
+HR031,Primorsko-goranska zupanija,2018,14817.62
+HR032,Licko-senjska zupanija,2018,9510.4
+HR033,Zadarska zupanija,2018,10636.53
+HR034,Sibensko-kninska zupanija,2018,9997.39
+HR035,Splitsko-dalmatinska zupanija,2018,9522.3
+HR036,Istarska zupanija,2018,15219.97
+HR037,Dubrovacko-neretvanska zupanija,2018,13011.67
+HR050,Grad Zagreb,2018,22175.28
+HR061,Međimurska županija,2018,10331.2
+HR062,Varaždinska županija,2018,11161.78
+HR063,Koprivničko-križevačka županija,2018,9084.71
+HR064,Krapinsko-zagorska županija,2018,8100.35
+HR065,Zagrebačka županija,2018,9801.92
+ME000,Crna Gora,2018,6653.17
+MK001,Vardarski,2018,4889.11
+MK002,Istocen,2018,4566.15
+MK003,Jugozapaden,2018,3684.21
+MK004,Jugoistocen,2018,5243.39
+MK005,Pelagoniski,2018,4753.52
+MK006,Poloski,2018,2184.76
+MK007,Severoistocen,2018,2704.51
+MK008,Skopski,2018,6636.81
+RS110,Београдска област,2018,9603.95
+RS121,Западнобачка област,2018,4096.11
+RS122,Јужнобанатска област,2018,5117.07
+RS123,Јужнобачка област,2018,6710.34
+RS124,Севернобанатска област,2018,4416.51
+RS125,Севернобачка област,2018,5035.68
+RS126,Средњобанатска област,2018,5009.57
+RS127,Сремска област,2018,5306.98
+RS211,Златиборска област,2018,4217.0
+RS212,Колубарска област,2018,4132.96
+RS213,Мачванска област,2018,3435.73
+RS214,Моравичка област,2018,4887.37
+RS215,Поморавска област,2018,3375.56
+RS216,Расинска област,2018,3398.9
+RS217,Рашка област,2018,2952.65
+RS218,Шумадијска област,2018,4356.73
+RS221,Борска област,2018,5386.73
+RS222,Браничевска област,2018,4720.1
+RS223,Зајечарска област,2018,3170.44
+RS224,Јабланичка област,2018,2657.94
+RS225,Нишавска област,2018,4148.43
+RS226,Пиротска област,2018,5018.27
+RS227,Подунавска област,2018,3025.67
+RS228,Пчињска област,2018,2602.51
+RS229,Топличка област,2018,3306.82
+SI031,Pomurska,2018,14380.83
+SI032,Podravska,2018,17077.76
+SI033,Koroska,2018,17192.59
+SI034,Savinjska,2018,19170.51
+SI035,Zasavska,2018,11087.57
+SI036,Posavska,2018,17603.66
+SI037,Jugovzhodna Slovenija,2018,20794.37
+SI038,Primorsko-notranjska,2018,15234.91
+SI041,Osrednjeslovenska,2018,29796.84
+SI042,Gorenjska,2018,18996.86
+SI043,Goriska,2018,19152.05
+SI044,Obalno-kraska,2018,21687.54
+KSV,Kosovo,2018,3715.0
+BIH,Brčko,2018,5721.716947
+BIH,Federacija Bosna i Hercegovina,2018,6043.850748
+BIH,Repuplika Srpska,2018,5614.973973
+HR021,Bjelovarsko-bilogorska županija,2019,8618.04
+HR022,Virovitičko-podravska županija,2019,7401.23
+HR023,Požeško-slavonska županija,2019,7660.75
+HR024,Brodsko-posavska županija,2019,7784.21
+HR025,Osječko-baranjska županija,2019,9768.42
+HR026,Vukovarsko-srijemska županija,2019,8173.33
+HR027,Karlovačka županija,2019,8931.55
+HR028,Sisačko-moslavačka županija,2019,9156.2
+HR031,Primorsko-goranska zupanija,2019,14419.19
+HR032,Licko-senjska zupanija,2019,9975.53
+HR033,Zadarska zupanija,2019,10962.53
+HR034,Sibensko-kninska zupanija,2019,10473.89
+HR035,Splitsko-dalmatinska zupanija,2019,10251.77
+HR036,Istarska zupanija,2019,15532.02
+HR037,Dubrovacko-neretvanska zupanija,2019,13978.41
+HR050,Grad Zagreb,2019,23128.76
+HR061,Međimurska županija,2019,10997.45
+HR062,Varaždinska županija,2019,11612.21
+HR063,Koprivničko-križevačka županija,2019,9727.74
+HR064,Krapinsko-zagorska županija,2019,8564.3
+HR065,Zagrebačka županija,2019,10320.86
+ME000,Crna Gora,2019,6925.71
+MK001,Vardarski,2019,5263.75
+MK002,Istocen,2019,4670.18
+MK003,Jugozapaden,2019,3713.78
+MK004,Jugoistocen,2019,5364.25
+MK005,Pelagoniski,2019,4981.7
+MK006,Poloski,2019,2296.56
+MK007,Severoistocen,2019,2731.14
+MK008,Skopski,2019,6918.33
+RS110,Београдска област,2019,10169.83
+RS121,Западнобачка област,2019,4278.18
+RS122,Јужнобанатска област,2019,5313.7
+RS123,Јужнобачка област,2019,6916.98
+RS124,Севернобанатска област,2019,4604.55
+RS125,Севернобачка област,2019,5225.61
+RS126,Средњобанатска област,2019,5219.27
+RS127,Сремска област,2019,5508.47
+RS211,Златиборска област,2019,4438.71
+RS212,Колубарска област,2019,4445.95
+RS213,Мачванска област,2019,3495.1
+RS214,Моравичка област,2019,4926.19
+RS215,Поморавска област,2019,3731.25
+RS216,Расинска област,2019,3687.46
+RS217,Рашка област,2019,2920.72
+RS218,Шумадијска област,2019,4618.17
+RS221,Борска област,2019,6439.95
+RS222,Браничевска област,2019,4422.24
+RS223,Зајечарска област,2019,2944.39
+RS224,Јабланичка област,2019,2905.3
+RS225,Нишавска област,2019,4494.16
+RS226,Пиротска област,2019,4923.54
+RS227,Подунавска област,2019,2640.14
+RS228,Пчињска област,2019,2750.6
+RS229,Топличка област,2019,3465.14
+SI031,Pomurska,2019,14772.69
+SI032,Podravska,2019,17780.07
+SI033,Koroska,2019,17607.19
+SI034,Savinjska,2019,19736.59
+SI035,Zasavska,2019,11544.26
+SI036,Posavska,2019,18441.95
+SI037,Jugovzhodna Slovenija,2019,21794.43
+SI038,Primorsko-notranjska,2019,15205.45
+SI041,Osrednjeslovenska,2019,30552.22
+SI042,Gorenjska,2019,19481.74
+SI043,Goriska,2019,19395.71
+SI044,Obalno-kraska,2019,21427.34
+HR021,Bjelovarsko-bilogorska županija,2019,8618.04
+HR022,Virovitičko-podravska županija,2019,7401.23
+HR023,Požeško-slavonska županija,2019,7660.75
+HR024,Brodsko-posavska županija,2019,7784.21
+HR025,Osječko-baranjska županija,2019,9768.42
+HR026,Vukovarsko-srijemska županija,2019,8173.33
+HR027,Karlovačka županija,2019,8931.55
+HR028,Sisačko-moslavačka županija,2019,9156.2
+HR031,Primorsko-goranska zupanija,2019,14419.19
+HR032,Licko-senjska zupanija,2019,9975.53
+HR033,Zadarska zupanija,2019,10962.53
+HR034,Sibensko-kninska zupanija,2019,10473.89
+HR035,Splitsko-dalmatinska zupanija,2019,10251.77
+HR036,Istarska zupanija,2019,15532.02
+HR037,Dubrovacko-neretvanska zupanija,2019,13978.41
+HR050,Grad Zagreb,2019,23128.76
+HR061,Međimurska županija,2019,10997.45
+HR062,Varaždinska županija,2019,11612.21
+HR063,Koprivničko-križevačka županija,2019,9727.74
+HR064,Krapinsko-zagorska županija,2019,8564.3
+HR065,Zagrebačka županija,2019,10320.86
+ME000,Crna Gora,2019,6925.71
+MK001,Vardarski,2019,5263.75
+MK002,Istocen,2019,4670.18
+MK003,Jugozapaden,2019,3713.78
+MK004,Jugoistocen,2019,5364.25
+MK005,Pelagoniski,2019,4981.7
+MK006,Poloski,2019,2296.56
+MK007,Severoistocen,2019,2731.14
+MK008,Skopski,2019,6918.33
+RS110,Београдска област,2019,10169.83
+RS121,Западнобачка област,2019,4278.18
+RS122,Јужнобанатска област,2019,5313.7
+RS123,Јужнобачка област,2019,6916.98
+RS124,Севернобанатска област,2019,4604.55
+RS125,Севернобачка област,2019,5225.61
+RS126,Средњобанатска област,2019,5219.27
+RS127,Сремска област,2019,5508.47
+RS211,Златиборска област,2019,4438.71
+RS212,Колубарска област,2019,4445.95
+RS213,Мачванска област,2019,3495.1
+RS214,Моравичка област,2019,4926.19
+RS215,Поморавска област,2019,3731.25
+RS216,Расинска област,2019,3687.46
+RS217,Рашка област,2019,2920.72
+RS218,Шумадијска област,2019,4618.17
+RS221,Борска област,2019,6439.95
+RS222,Браничевска област,2019,4422.24
+RS223,Зајечарска област,2019,2944.39
+RS224,Јабланичка област,2019,2905.3
+RS225,Нишавска област,2019,4494.16
+RS226,Пиротска област,2019,4923.54
+RS227,Подунавска област,2019,2640.14
+RS228,Пчињска област,2019,2750.6
+RS229,Топличка област,2019,3465.14
+SI031,Pomurska,2019,14772.69
+SI032,Podravska,2019,17780.07
+SI033,Koroska,2019,17607.19
+SI034,Savinjska,2019,19736.59
+SI035,Zasavska,2019,11544.26
+SI036,Posavska,2019,18441.95
+SI037,Jugovzhodna Slovenija,2019,21794.43
+SI038,Primorsko-notranjska,2019,15205.45
+SI041,Osrednjeslovenska,2019,30552.22
+SI042,Gorenjska,2019,19481.74
+SI043,Goriska,2019,19395.71
+SI044,Obalno-kraska,2019,21427.34
+KSV,Kosovo,2019,3959.0
+BIH,Brčko,2019,6031.821603
+BIH,Federacija Bosna i Hercegovina,2019,6061.808256
+BIH,Repuplika Srpska,2019,5636.667516
+HR021,Bjelovarsko-bilogorska županija,2020,8491.01
+HR022,Virovitičko-podravska županija,2020,7114.27
+HR023,Požeško-slavonska županija,2020,7217.28
+HR024,Brodsko-posavska županija,2020,7491.33
+HR025,Osječko-baranjska županija,2020,9643.27
+HR026,Vukovarsko-srijemska županija,2020,8056.42
+HR027,Karlovačka županija,2020,8773.69
+HR028,Sisačko-moslavačka županija,2020,8304.58
+HR031,Primorsko-goranska zupanija,2020,12850.27
+HR032,Licko-senjska zupanija,2020,9688.02
+HR033,Zadarska zupanija,2020,10186.21
+HR034,Sibensko-kninska zupanija,2020,9653.5
+HR035,Splitsko-dalmatinska zupanija,2020,8989.07
+HR036,Istarska zupanija,2020,12562.32
+HR037,Dubrovacko-neretvanska zupanija,2020,10435.61
+HR050,Grad Zagreb,2020,21535.97
+HR061,Međimurska županija,2020,10678.36
+HR062,Varaždinska županija,2020,11273.94
+HR063,Koprivničko-križevačka županija,2020,9325.58
+HR064,Krapinsko-zagorska županija,2020,7910.92
+HR065,Zagrebačka županija,2020,10055.87
+ME000,Crna Gora,2020,5872.43
+MK001,Vardarski,2020,5000.5
+MK002,Istocen,2020,4523.81
+MK003,Jugozapaden,2020,3519.03
+MK004,Jugoistocen,2020,4994.49
+MK005,Pelagoniski,2020,4743.3
+MK006,Poloski,2020,2208.43
+MK007,Severoistocen,2020,2594.98
+MK008,Skopski,2020,6634.13
+RS110,Београдска област,2020,10049.81
+RS121,Западнобачка област,2020,4311.16
+RS122,Јужнобанатска област,2020,5325.66
+RS123,Јужнобачка област,2020,6881.7
+RS124,Севернобанатска област,2020,4632.13
+RS125,Севернобачка област,2020,5234.26
+RS126,Средњобанатска област,2020,5248.07
+RS127,Сремска област,2020,5517.23
+RS211,Златиборска област,2020,4413.69
+RS212,Колубарска област,2020,4492.4
+RS213,Мачванска област,2020,3461.3
+RS214,Моравичка област,2020,4932.32
+RS215,Поморавска област,2020,3678.34
+RS216,Расинска област,2020,3710.62
+RS217,Рашка област,2020,2911.22
+RS218,Шумадијска област,2020,4506.31
+RS221,Борска област,2020,7307.94
+RS222,Браничевска област,2020,4596.47
+RS223,Зајечарска област,2020,3132.73
+RS224,Јабланичка област,2020,2892.95
+RS225,Нишавска област,2020,4240.89
+RS226,Пиротска област,2020,4554.16
+RS227,Подунавска област,2020,3208.31
+RS228,Пчињска област,2020,2616.9
+RS229,Топличка област,2020,3214.33
+SI031,Pomurska,2020,14284.09
+SI032,Podravska,2020,16891.69
+SI033,Koroska,2020,16502.19
+SI034,Savinjska,2020,18379.4
+SI035,Zasavska,2020,11256.55
+SI036,Posavska,2020,18190.06
+SI037,Jugovzhodna Slovenija,2020,20701.86
+SI038,Primorsko-notranjska,2020,14334.09
+SI041,Osrednjeslovenska,2020,29882.27
+SI042,Gorenjska,2020,17415.31
+SI043,Goriska,2020,18082.99
+SI044,Obalno-kraska,2020,19117.24
+HR021,Bjelovarsko-bilogorska županija,2020,8491.01
+HR022,Virovitičko-podravska županija,2020,7114.27
+HR023,Požeško-slavonska županija,2020,7217.28
+HR024,Brodsko-posavska županija,2020,7491.33
+HR025,Osječko-baranjska županija,2020,9643.27
+HR026,Vukovarsko-srijemska županija,2020,8056.42
+HR027,Karlovačka županija,2020,8773.69
+HR028,Sisačko-moslavačka županija,2020,8304.58
+HR031,Primorsko-goranska zupanija,2020,12850.27
+HR032,Licko-senjska zupanija,2020,9688.02
+HR033,Zadarska zupanija,2020,10186.21
+HR034,Sibensko-kninska zupanija,2020,9653.5
+HR035,Splitsko-dalmatinska zupanija,2020,8989.07
+HR036,Istarska zupanija,2020,12562.32
+HR037,Dubrovacko-neretvanska zupanija,2020,10435.61
+HR050,Grad Zagreb,2020,21535.97
+HR061,Međimurska županija,2020,10678.36
+HR062,Varaždinska županija,2020,11273.94
+HR063,Koprivničko-križevačka županija,2020,9325.58
+HR064,Krapinsko-zagorska županija,2020,7910.92
+HR065,Zagrebačka županija,2020,10055.87
+ME000,Crna Gora,2020,5872.43
+MK001,Vardarski,2020,5000.5
+MK002,Istocen,2020,4523.81
+MK003,Jugozapaden,2020,3519.03
+MK004,Jugoistocen,2020,4994.49
+MK005,Pelagoniski,2020,4743.3
+MK006,Poloski,2020,2208.43
+MK007,Severoistocen,2020,2594.98
+MK008,Skopski,2020,6634.13
+RS110,Београдска област,2020,10049.81
+RS121,Западнобачка област,2020,4311.16
+RS122,Јужнобанатска област,2020,5325.66
+RS123,Јужнобачка област,2020,6881.7
+RS124,Севернобанатска област,2020,4632.13
+RS125,Севернобачка област,2020,5234.26
+RS126,Средњобанатска област,2020,5248.07
+RS127,Сремска област,2020,5517.23
+RS211,Златиборска област,2020,4413.69
+RS212,Колубарска област,2020,4492.4
+RS213,Мачванска област,2020,3461.3
+RS214,Моравичка област,2020,4932.32
+RS215,Поморавска област,2020,3678.34
+RS216,Расинска област,2020,3710.62
+RS217,Рашка област,2020,2911.22
+RS218,Шумадијска област,2020,4506.31
+RS221,Борска област,2020,7307.94
+RS222,Браничевска област,2020,4596.47
+RS223,Зајечарска област,2020,3132.73
+RS224,Јабланичка област,2020,2892.95
+RS225,Нишавска област,2020,4240.89
+RS226,Пиротска област,2020,4554.16
+RS227,Подунавска област,2020,3208.31
+RS228,Пчињска област,2020,2616.9
+RS229,Топличка област,2020,3214.33
+SI031,Pomurska,2020,14284.09
+SI032,Podravska,2020,16891.69
+SI033,Koroska,2020,16502.19
+SI034,Savinjska,2020,18379.4
+SI035,Zasavska,2020,11256.55
+SI036,Posavska,2020,18190.06
+SI037,Jugovzhodna Slovenija,2020,20701.86
+SI038,Primorsko-notranjska,2020,14334.09
+SI041,Osrednjeslovenska,2020,29882.27
+SI042,Gorenjska,2020,17415.31
+SI043,Goriska,2020,18082.99
+SI044,Obalno-kraska,2020,19117.24
+KSV,Kosovo,2020,3772.0
+BIH,Brčko,2020,6045.947982062968
+BIH,Federacija Bosna i Hercegovina,2020,6075.964765066836
+BIH,Repuplika Srpska,2020,5650.050952174108
+HR021,Bjelovarsko-bilogorska županija,2021,10045.06
+HR022,Virovitičko-podravska županija,2021,8438.14
+HR023,Požeško-slavonska županija,2021,7977.9
+HR024,Brodsko-posavska županija,2021,8445.36
+HR025,Osječko-baranjska županija,2021,11059.58
+HR026,Vukovarsko-srijemska županija,2021,9035.22
+HR027,Karlovačka županija,2021,10162.46
+HR028,Sisačko-moslavačka županija,2021,9745.08
+HR031,Primorsko-goranska zupanija,2021,15213.01
+HR032,Licko-senjska zupanija,2021,11600.25
+HR033,Zadarska zupanija,2021,11622.49
+HR034,Sibensko-kninska zupanija,2021,11082.47
+HR035,Splitsko-dalmatinska zupanija,2021,10565.84
+HR036,Istarska zupanija,2021,15358.06
+HR037,Dubrovacko-neretvanska zupanija,2021,13148.59
+HR050,Grad Zagreb,2021,24118.85
+HR061,Međimurska županija,2021,12197.21
+HR062,Varaždinska županija,2021,12324.85
+HR063,Koprivničko-križevačka županija,2021,10441.28
+HR064,Krapinsko-zagorska županija,2021,8896.42
+HR065,Zagrebačka županija,2021,11487.18
+ME000,Crna Gora,2021,6660.91
+MK001,Vardarski,2021,5423.41
+MK002,Istocen,2021,5168.84
+MK003,Jugozapaden,2021,4403.85
+MK004,Jugoistocen,2021,5346.82
+MK005,Pelagoniski,2021,4846.84
+MK006,Poloski,2021,2548.33
+MK007,Severoistocen,2021,2940.44
+MK008,Skopski,2021,7141.83
+RS110,Београдска област,2021,10497.2
+RS121,Западнобачка област,2021,4690.02
+RS122,Јужнобанатска област,2021,5767.17
+RS123,Јужнобачка област,2021,7396.23
+RS124,Севернобанатска област,2021,5034.14
+RS125,Севернобачка област,2021,5664.86
+RS126,Средњобанатска област,2021,5701.09
+RS127,Сремска област,2021,5966.98
+RS211,Златиборска област,2021,4814.41
+RS212,Колубарска област,2021,4664.52
+RS213,Мачванска област,2021,3752.4
+RS214,Моравичка област,2021,5300.66
+RS215,Поморавска област,2021,4288.93
+RS216,Расинска област,2021,4298.1
+RS217,Рашка област,2021,3411.8
+RS218,Шумадијска област,2021,4881.5
+RS221,Борска област,2021,11015.24
+RS222,Браничевска област,2021,5000.31
+RS223,Зајечарска област,2021,3651.93
+RS224,Јабланичка област,2021,3344.54
+RS225,Нишавска област,2021,4935.89
+RS226,Пиротска област,2021,4946.41
+RS227,Подунавска област,2021,3783.26
+RS228,Пчињска област,2021,3018.08
+RS229,Топличка област,2021,3627.58
+SI031,Pomurska,2021,15308.95
+SI032,Podravska,2021,18382.31
+SI033,Koroska,2021,17401.64
+SI034,Savinjska,2021,19945.9
+SI035,Zasavska,2021,11982.79
+SI036,Posavska,2021,19110.35
+SI037,Jugovzhodna Slovenija,2021,21615.84
+SI038,Primorsko-notranjska,2021,15975.98
+SI041,Osrednjeslovenska,2021,32717.1
+SI042,Gorenjska,2021,18426.53
+SI043,Goriska,2021,19615.71
+SI044,Obalno-kraska,2021,20029.53
+HR021,Bjelovarsko-bilogorska županija,2021,10045.06
+HR022,Virovitičko-podravska županija,2021,8438.14
+HR023,Požeško-slavonska županija,2021,7977.9
+HR024,Brodsko-posavska županija,2021,8445.36
+HR025,Osječko-baranjska županija,2021,11059.58
+HR026,Vukovarsko-srijemska županija,2021,9035.22
+HR027,Karlovačka županija,2021,10162.46
+HR028,Sisačko-moslavačka županija,2021,9745.08
+HR031,Primorsko-goranska zupanija,2021,15213.01
+HR032,Licko-senjska zupanija,2021,11600.25
+HR033,Zadarska zupanija,2021,11622.49
+HR034,Sibensko-kninska zupanija,2021,11082.47
+HR035,Splitsko-dalmatinska zupanija,2021,10565.84
+HR036,Istarska zupanija,2021,15358.06
+HR037,Dubrovacko-neretvanska zupanija,2021,13148.59
+HR050,Grad Zagreb,2021,24118.85
+HR061,Međimurska županija,2021,12197.21
+HR062,Varaždinska županija,2021,12324.85
+HR063,Koprivničko-križevačka županija,2021,10441.28
+HR064,Krapinsko-zagorska županija,2021,8896.42
+HR065,Zagrebačka županija,2021,11487.18
+ME000,Crna Gora,2021,6660.91
+MK001,Vardarski,2021,5423.41
+MK002,Istocen,2021,5168.84
+MK003,Jugozapaden,2021,4403.85
+MK004,Jugoistocen,2021,5346.82
+MK005,Pelagoniski,2021,4846.84
+MK006,Poloski,2021,2548.33
+MK007,Severoistocen,2021,2940.44
+MK008,Skopski,2021,7141.83
+RS110,Београдска област,2021,10497.2
+RS121,Западнобачка област,2021,4690.02
+RS122,Јужнобанатска област,2021,5767.17
+RS123,Јужнобачка област,2021,7396.23
+RS124,Севернобанатска област,2021,5034.14
+RS125,Севернобачка област,2021,5664.86
+RS126,Средњобанатска област,2021,5701.09
+RS127,Сремска област,2021,5966.98
+RS211,Златиборска област,2021,4814.41
+RS212,Колубарска област,2021,4664.52
+RS213,Мачванска област,2021,3752.4
+RS214,Моравичка област,2021,5300.66
+RS215,Поморавска област,2021,4288.93
+RS216,Расинска област,2021,4298.1
+RS217,Рашка област,2021,3411.8
+RS218,Шумадијска област,2021,4881.5
+RS221,Борска област,2021,11015.24
+RS222,Браничевска област,2021,5000.31
+RS223,Зајечарска област,2021,3651.93
+RS224,Јабланичка област,2021,3344.54
+RS225,Нишавска област,2021,4935.89
+RS226,Пиротска област,2021,4946.41
+RS227,Подунавска област,2021,3783.26
+RS228,Пчињска област,2021,3018.08
+RS229,Топличка област,2021,3627.58
+SI031,Pomurska,2021,15308.95
+SI032,Podravska,2021,18382.31
+SI033,Koroska,2021,17401.64
+SI034,Savinjska,2021,19945.9
+SI035,Zasavska,2021,11982.79
+SI036,Posavska,2021,19110.35
+SI037,Jugovzhodna Slovenija,2021,21615.84
+SI038,Primorsko-notranjska,2021,15975.98
+SI041,Osrednjeslovenska,2021,32717.1
+SI042,Gorenjska,2021,18426.53
+SI043,Goriska,2021,19615.71
+SI044,Obalno-kraska,2021,20029.53
+KSV,Kosovo,2021,4486.0
+BIH,Brčko,2021,6585.844443929845
+BIH,Federacija Bosna i Hercegovina,2021,6618.700652352998
+BIH,Repuplika Srpska,2021,6154.251780198547
+HR021,Bjelovarsko-bilogorska županija,2022,10527.21
+HR022,Virovitičko-podravska županija,2022,8873.35
+HR023,Požeško-slavonska županija,2022,8496.46
+HR024,Brodsko-posavska županija,2022,9001.46
+HR025,Osječko-baranjska županija,2022,11738.58
+HR026,Vukovarsko-srijemska županija,2022,9565.64
+HR027,Karlovačka županija,2022,10912.58
+HR028,Sisačko-moslavačka županija,2022,10351.34
+HR031,Primorsko-goranska zupanija,2022,16643.77
+HR032,Licko-senjska zupanija,2022,12417.38
+HR033,Zadarska zupanija,2022,12408.99
+HR034,Sibensko-kninska zupanija,2022,12031.5
+HR035,Splitsko-dalmatinska zupanija,2022,11369.3
+HR036,Istarska zupanija,2022,17053.13
+HR037,Dubrovacko-neretvanska zupanija,2022,14701.74
+HR050,Grad Zagreb,2022,25452.12
+HR061,Međimurska županija,2022,12865.09
+HR062,Varaždinska županija,2022,13081.34
+HR063,Koprivničko-križevačka županija,2022,10992.93
+HR064,Krapinsko-zagorska županija,2022,9465.77
+HR065,Zagrebačka županija,2022,12180.49
+ME000,Crna Gora,2022,7110.55
+MK001,Vardarski,2022,5828.27
+MK002,Istocen,2022,5731.09
+MK003,Jugozapaden,2022,5055.15
+MK004,Jugoistocen,2022,5950.09
+MK005,Pelagoniski,2022,5172.13
+MK006,Poloski,2022,2983.52
+MK007,Severoistocen,2022,3246.86
+MK008,Skopski,2022,7504.15
+RS110,Београдска област,2022,11211.33
+RS121,Западнобачка област,2022,5390.1
+RS122,Јужнобанатска област,2022,6528.95
+RS123,Јужнобачка област,2022,8222.15
+RS124,Севернобанатска област,2022,5895.69
+RS125,Севернобачка област,2022,6550.75
+RS126,Средњобанатска област,2022,6545.46
+RS127,Сремска област,2022,6711.24
+RS211,Златиборска област,2022,5195.75
+RS212,Колубарска област,2022,5055.91
+RS213,Мачванска област,2022,4055.78
+RS214,Моравичка област,2022,5739.65
+RS215,Поморавска област,2022,4709.96
+RS216,Расинска област,2022,4696.68
+RS217,Рашка област,2022,3669.88
+RS218,Шумадијска област,2022,5277.08
+RS221,Борска област,2022,12192.66
+RS222,Браничевска област,2022,5439.39
+RS223,Зајечарска област,2022,4040.17
+RS224,Јабланичка област,2022,3675.74
+RS225,Нишавска област,2022,5368.69
+RS226,Пиротска област,2022,5469.27
+RS227,Подунавска област,2022,4115.28
+RS228,Пчињска област,2022,3230.29
+RS229,Топличка област,2022,3982.54
+SI031,Pomurska,2022,15667.25
+SI032,Podravska,2022,18604.53
+SI033,Koroska,2022,17682.18
+SI034,Savinjska,2022,20220.9
+SI035,Zasavska,2022,12310.39
+SI036,Posavska,2022,17864.59
+SI037,Jugovzhodna Slovenija,2022,21407.8
+SI038,Primorsko-notranjska,2022,15876.08
+SI041,Osrednjeslovenska,2022,33246.58
+SI042,Gorenjska,2022,20056.92
+SI043,Goriska,2022,20415.26
+SI044,Obalno-kraska,2022,22070.74
+HR021,Bjelovarsko-bilogorska županija,2022,10527.21
+HR022,Virovitičko-podravska županija,2022,8873.35
+HR023,Požeško-slavonska županija,2022,8496.46
+HR024,Brodsko-posavska županija,2022,9001.46
+HR025,Osječko-baranjska županija,2022,11738.58
+HR026,Vukovarsko-srijemska županija,2022,9565.64
+HR027,Karlovačka županija,2022,10912.58
+HR028,Sisačko-moslavačka županija,2022,10351.34
+HR031,Primorsko-goranska zupanija,2022,16643.77
+HR032,Licko-senjska zupanija,2022,12417.38
+HR033,Zadarska zupanija,2022,12408.99
+HR034,Sibensko-kninska zupanija,2022,12031.5
+HR035,Splitsko-dalmatinska zupanija,2022,11369.3
+HR036,Istarska zupanija,2022,17053.13
+HR037,Dubrovacko-neretvanska zupanija,2022,14701.74
+HR050,Grad Zagreb,2022,25452.12
+HR061,Međimurska županija,2022,12865.09
+HR062,Varaždinska županija,2022,13081.34
+HR063,Koprivničko-križevačka županija,2022,10992.93
+HR064,Krapinsko-zagorska županija,2022,9465.77
+HR065,Zagrebačka županija,2022,12180.49
+ME000,Crna Gora,2022,7110.55
+MK001,Vardarski,2022,5828.27
+MK002,Istocen,2022,5731.09
+MK003,Jugozapaden,2022,5055.15
+MK004,Jugoistocen,2022,5950.09
+MK005,Pelagoniski,2022,5172.13
+MK006,Poloski,2022,2983.52
+MK007,Severoistocen,2022,3246.86
+MK008,Skopski,2022,7504.15
+RS110,Београдска област,2022,11211.33
+RS121,Западнобачка област,2022,5390.1
+RS122,Јужнобанатска област,2022,6528.95
+RS123,Јужнобачка област,2022,8222.15
+RS124,Севернобанатска област,2022,5895.69
+RS125,Севернобачка област,2022,6550.75
+RS126,Средњобанатска област,2022,6545.46
+RS127,Сремска област,2022,6711.24
+RS211,Златиборска област,2022,5195.75
+RS212,Колубарска област,2022,5055.91
+RS213,Мачванска област,2022,4055.78
+RS214,Моравичка област,2022,5739.65
+RS215,Поморавска област,2022,4709.96
+RS216,Расинска област,2022,4696.68
+RS217,Рашка област,2022,3669.88
+RS218,Шумадијска област,2022,5277.08
+RS221,Борска област,2022,12192.66
+RS222,Браничевска област,2022,5439.39
+RS223,Зајечарска област,2022,4040.17
+RS224,Јабланичка област,2022,3675.74
+RS225,Нишавска област,2022,5368.69
+RS226,Пиротска област,2022,5469.27
+RS227,Подунавска област,2022,4115.28
+RS228,Пчињска област,2022,3230.29
+RS229,Топличка област,2022,3982.54
+SI031,Pomurska,2022,15667.25
+SI032,Podravska,2022,18604.53
+SI033,Koroska,2022,17682.18
+SI034,Savinjska,2022,20220.9
+SI035,Zasavska,2022,12310.39
+SI036,Posavska,2022,17864.59
+SI037,Jugovzhodna Slovenija,2022,21407.8
+SI038,Primorsko-notranjska,2022,15876.08
+SI041,Osrednjeslovenska,2022,33246.58
+SI042,Gorenjska,2022,20056.92
+SI043,Goriska,2022,20415.26
+SI044,Obalno-kraska,2022,22070.74
+KSV,Kosovo,2022,5048.0
+BIH,Brčko,2022,6934.282506096372
+BIH,Federacija Bosna i Hercegovina,2022,6968.761243330545
+BIH,Repuplika Srpska,2022,6479.974439010795
